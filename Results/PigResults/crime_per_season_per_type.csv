@@ -1,0 +1,140 @@
+Fall      ,ARSON                                   ,      2587
+Fall      ,ASSAULT                                 ,    100995
+Fall      ,BATTERY                                 ,    288891
+Fall      ,BURGLARY                                ,    100935
+Fall      ,CONCEALED CARRY LICENSE VIOLATION       ,       151
+Fall      ,CRIM SEXUAL ASSAULT                     ,      6439
+Fall      ,CRIMINAL DAMAGE                         ,    190991
+Fall      ,CRIMINAL SEXUAL ASSAULT                 ,        63
+Fall      ,CRIMINAL TRESPASS                       ,     46363
+Fall      ,DECEPTIVE PRACTICE                      ,     63459
+Fall      ,GAMBLING                                ,      3538
+Fall      ,HOMICIDE                                ,      2522
+Fall      ,HUMAN TRAFFICKING                       ,        14
+Fall      ,INTERFERENCE WITH PUBLIC OFFICER        ,      4088
+Fall      ,INTIMIDATION                            ,       982
+Fall      ,KIDNAPPING                              ,      1415
+Fall      ,LIQUOR LAW VIOLATION                    ,      2985
+Fall      ,MOTOR VEHICLE THEFT                     ,     73437
+Fall      ,NARCOTICS                               ,    163153
+Fall      ,NON - CRIMINAL                          ,         9
+Fall      ,NON-CRIMINAL                            ,        54
+Fall      ,NON-CRIMINAL (SUBJECT SPECIFIED)        ,         1
+Fall      ,OBSCENITY                               ,       167
+Fall      ,OFFENSE INVOLVING CHILDREN              ,     10326
+Fall      ,OTHER NARCOTIC VIOLATION                ,        30
+Fall      ,OTHER OFFENSE                           ,     95280
+Fall      ,PROSTITUTION                            ,     15584
+Fall      ,PUBLIC INDECENCY                        ,        45
+Fall      ,PUBLIC PEACE VIOLATION                  ,     11927
+Fall      ,RITUALISM                               ,         7
+Fall      ,ROBBERY                                 ,     66485
+Fall      ,SEX OFFENSE                             ,      5701
+Fall      ,STALKING                                ,       850
+Fall      ,THEFT                                   ,    356812
+Fall      ,WEAPONS VIOLATION                       ,     18471
+Spring    ,ARSON                                   ,      2674
+Spring    ,ASSAULT                                 ,    106960
+Spring    ,BATTERY                                 ,    307914
+Spring    ,BURGLARY                                ,     83926
+Spring    ,CONCEALED CARRY LICENSE VIOLATION       ,       139
+Spring    ,CRIM SEXUAL ASSAULT                     ,      6081
+Spring    ,CRIMINAL DAMAGE                         ,    187837
+Spring    ,CRIMINAL SEXUAL ASSAULT                 ,       183
+Spring    ,CRIMINAL TRESPASS                       ,     46910
+Spring    ,DECEPTIVE PRACTICE                      ,     64574
+Spring    ,GAMBLING                                ,      3271
+Spring    ,HOMICIDE                                ,      2323
+Spring    ,HUMAN TRAFFICKING                       ,        13
+Spring    ,INTERFERENCE WITH PUBLIC OFFICER        ,      4190
+Spring    ,INTIMIDATION                            ,       962
+Spring    ,KIDNAPPING                              ,      1492
+Spring    ,LIQUOR LAW VIOLATION                    ,      3353
+Spring    ,MOTOR VEHICLE THEFT                     ,     70490
+Spring    ,NARCOTICS                               ,    169133
+Spring    ,NON - CRIMINAL                          ,         5
+Spring    ,NON-CRIMINAL                            ,        29
+Spring    ,NON-CRIMINAL (SUBJECT SPECIFIED)        ,         2
+Spring    ,OBSCENITY                               ,       165
+Spring    ,OFFENSE INVOLVING CHILDREN              ,     11207
+Spring    ,OTHER NARCOTIC VIOLATION                ,        31
+Spring    ,OTHER OFFENSE                           ,    104660
+Spring    ,PROSTITUTION                            ,     15595
+Spring    ,PUBLIC INDECENCY                        ,        38
+Spring    ,PUBLIC PEACE VIOLATION                  ,     12650
+Spring    ,RITUALISM                               ,         1
+Spring    ,ROBBERY                                 ,     53950
+Spring    ,SEX OFFENSE                             ,      5692
+Spring    ,STALKING                                ,       869
+Spring    ,THEFT                                   ,    322397
+Spring    ,WEAPONS VIOLATION                       ,     18929
+Summer    ,ARSON                                   ,      2999
+Summer    ,ASSAULT                                 ,    115208
+Summer    ,BATTERY                                 ,    338831
+Summer    ,BURGLARY                                ,    102177
+Summer    ,CONCEALED CARRY LICENSE VIOLATION       ,       148
+Summer    ,CRIM SEXUAL ASSAULT                     ,      7356
+Summer    ,CRIMINAL DAMAGE                         ,    205841
+Summer    ,CRIMINAL SEXUAL ASSAULT                 ,        72
+Summer    ,CRIMINAL TRESPASS                       ,     47678
+Summer    ,DECEPTIVE PRACTICE                      ,     66373
+Summer    ,GAMBLING                                ,      5700
+Summer    ,HOMICIDE                                ,      3050
+Summer    ,HUMAN TRAFFICKING                       ,        16
+Summer    ,INTERFERENCE WITH PUBLIC OFFICER        ,      4857
+Summer    ,INTIMIDATION                            ,      1017
+Summer    ,KIDNAPPING                              ,      1473
+Summer    ,LIQUOR LAW VIOLATION                    ,      3495
+Summer    ,MOTOR VEHICLE THEFT                     ,     77942
+Summer    ,NARCOTICS                               ,    166366
+Summer    ,NON - CRIMINAL                          ,        16
+Summer    ,NON-CRIMINAL                            ,        49
+Summer    ,NON-CRIMINAL (SUBJECT SPECIFIED)        ,         2
+Summer    ,OBSCENITY                               ,       132
+Summer    ,OFFENSE INVOLVING CHILDREN              ,     11118
+Summer    ,OTHER NARCOTIC VIOLATION                ,        39
+Summer    ,OTHER OFFENSE                           ,    104087
+Summer    ,PROSTITUTION                            ,     15924
+Summer    ,PUBLIC INDECENCY                        ,        53
+Summer    ,PUBLIC PEACE VIOLATION                  ,     12694
+Summer    ,RITUALISM                               ,         2
+Summer    ,ROBBERY                                 ,     67559
+Summer    ,SEX OFFENSE                             ,      6939
+Summer    ,STALKING                                ,       910
+Summer    ,THEFT                                   ,    391707
+Summer    ,WEAPONS VIOLATION                       ,     20226
+Winter    ,ARSON                                   ,      2033
+Winter    ,ASSAULT                                 ,     82023
+Winter    ,BATTERY                                 ,    241200
+Winter    ,BURGLARY                                ,     80439
+Winter    ,CONCEALED CARRY LICENSE VIOLATION       ,       119
+Winter    ,CRIM SEXUAL ASSAULT                     ,      5498
+Winter    ,CRIMINAL DAMAGE                         ,    148352
+Winter    ,CRIMINAL SEXUAL ASSAULT                 ,       215
+Winter    ,CRIMINAL TRESPASS                       ,     43430
+Winter    ,DECEPTIVE PRACTICE                      ,     62094
+Winter    ,GAMBLING                                ,       853
+Winter    ,HOMICIDE                                ,      1892
+Winter    ,HUMAN TRAFFICKING                       ,        16
+Winter    ,INTERFERENCE WITH PUBLIC OFFICER        ,      3466
+Winter    ,INTIMIDATION                            ,       799
+Winter    ,KIDNAPPING                              ,      1311
+Winter    ,LIQUOR LAW VIOLATION                    ,      2417
+Winter    ,MOTOR VEHICLE THEFT                     ,     69355
+Winter    ,NARCOTICS                               ,    155707
+Winter    ,NON - CRIMINAL                          ,         8
+Winter    ,NON-CRIMINAL                            ,        30
+Winter    ,NON-CRIMINAL (SUBJECT SPECIFIED)        ,         4
+Winter    ,OBSCENITY                               ,       147
+Winter    ,OFFENSE INVOLVING CHILDREN              ,     11090
+Winter    ,OTHER NARCOTIC VIOLATION                ,        25
+Winter    ,OTHER OFFENSE                           ,     95195
+Winter    ,PROSTITUTION                            ,     13588
+Winter    ,PUBLIC INDECENCY                        ,        30
+Winter    ,PUBLIC PEACE VIOLATION                  ,      8910
+Winter    ,RITUALISM                               ,         4
+Winter    ,ROBBERY                                 ,     54672
+Winter    ,SEX OFFENSE                             ,      4776
+Winter    ,STALKING                                ,       741
+Winter    ,THEFT                                   ,    293182
+Winter    ,WEAPONS VIOLATION                       ,     15764

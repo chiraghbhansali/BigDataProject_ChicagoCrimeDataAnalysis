@@ -1,0 +1,723 @@
+Fall      ,ABANDONED BUILDING                                          ,      2848
+Fall      ,AIRCRAFT                                                    ,       160
+Fall      ,AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA             ,       254
+Fall      ,AIRPORT BUILDING NON-TERMINAL - SECURE AREA                 ,       148
+Fall      ,AIRPORT EXTERIOR - NON-SECURE AREA                          ,       215
+Fall      ,AIRPORT EXTERIOR - SECURE AREA                              ,        72
+Fall      ,AIRPORT PARKING LOT                                         ,       203
+Fall      ,AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA              ,       399
+Fall      ,AIRPORT TERMINAL LOWER LEVEL - SECURE AREA                  ,       168
+Fall      ,AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA                ,        24
+Fall      ,AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA              ,       191
+Fall      ,AIRPORT TERMINAL UPPER LEVEL - SECURE AREA                  ,       997
+Fall      ,AIRPORT TRANSPORTATION SYSTEM (ATS)                         ,        27
+Fall      ,AIRPORT VENDING ESTABLISHMENT                               ,       224
+Fall      ,AIRPORT/AIRCRAFT                                            ,      3160
+Fall      ,ALLEY                                                       ,     37613
+Fall      ,ANIMAL HOSPITAL                                             ,       238
+Fall      ,APARTMENT                                                   ,    171241
+Fall      ,APPLIANCE STORE                                             ,       444
+Fall      ,ATHLETIC CLUB                                               ,      2016
+Fall      ,ATM (AUTOMATIC TELLER MACHINE)                              ,      1973
+Fall      ,AUTO                                                        ,       289
+Fall      ,AUTO / BOAT / RV DEALERSHIP                                 ,       139
+Fall      ,BANK                                                        ,      6531
+Fall      ,BANQUET HALL                                                ,         1
+Fall      ,BAR OR TAVERN                                               ,      9041
+Fall      ,BARBER SHOP/BEAUTY SALON                                    ,         7
+Fall      ,BARBERSHOP                                                  ,      1872
+Fall      ,BASEMENT                                                    ,        13
+Fall      ,BOAT/WATERCRAFT                                             ,       150
+Fall      ,BOWLING ALLEY                                               ,       165
+Fall      ,BRIDGE                                                      ,       111
+Fall      ,CAR WASH                                                    ,       644
+Fall      ,CEMETARY                                                    ,        75
+Fall      ,CHA APARTMENT                                               ,      7284
+Fall      ,CHA GROUNDS                                                 ,         8
+Fall      ,CHA HALLWAY                                                 ,         6
+Fall      ,CHA HALLWAY / STAIRWELL / ELEVATOR                          ,         3
+Fall      ,CHA HALLWAY/STAIRWELL/ELEVATOR                              ,      4730
+Fall      ,CHA LOBBY                                                   ,         1
+Fall      ,CHA PARKING LOT                                             ,        12
+Fall      ,CHA PARKING LOT / GROUNDS                                   ,         1
+Fall      ,CHA PARKING LOT/GROUNDS                                     ,     11323
+Fall      ,CHA PLAY LOT                                                ,         1
+Fall      ,CHA STAIRWELL                                               ,         2
+Fall      ,CHURCH / SYNAGOGUE / PLACE OF WORSHIP                       ,         1
+Fall      ,CHURCH PROPERTY                                             ,         1
+Fall      ,CHURCH/SYNAGOGUE/PLACE OF WORSHIP                           ,      3574
+Fall      ,CLEANING STORE                                              ,      1079
+Fall      ,CLUB                                                        ,         2
+Fall      ,COACH HOUSE                                                 ,         1
+Fall      ,COIN OPERATED MACHINE                                       ,       239
+Fall      ,COLLEGE / UNIVERSITY - GROUNDS                              ,         1
+Fall      ,COLLEGE/UNIVERSITY GROUNDS                                  ,      1602
+Fall      ,COLLEGE/UNIVERSITY RESIDENCE HALL                           ,       428
+Fall      ,COMMERCIAL / BUSINESS OFFICE                                ,     10946
+Fall      ,CONSTRUCTION SITE                                           ,      3396
+Fall      ,CONVENIENCE STORE                                           ,      4632
+Fall      ,CREDIT UNION                                                ,       117
+Fall      ,CTA BUS                                                     ,      5999
+Fall      ,CTA BUS STOP                                                ,      1873
+Fall      ,CTA GARAGE / OTHER PROPERTY                                 ,      2825
+Fall      ,CTA PLATFORM                                                ,      8742
+Fall      ,CTA STATION                                                 ,      1491
+Fall      ,CTA TRACKS - RIGHT OF WAY                                   ,        39
+Fall      ,CTA TRAIN                                                   ,      6473
+Fall      ,CURRENCY EXCHANGE                                           ,      2331
+Fall      ,DAY CARE CENTER                                             ,       667
+Fall      ,DELIVERY TRUCK                                              ,       206
+Fall      ,DEPARTMENT STORE                                            ,     20733
+Fall      ,DRIVEWAY                                                    ,         4
+Fall      ,DRIVEWAY - RESIDENTIAL                                      ,      5079
+Fall      ,DRUG STORE                                                  ,      7245
+Fall      ,DUMPSTER                                                    ,         1
+Fall      ,FACTORY                                                     ,         1
+Fall      ,FACTORY / MANUFACTURING BUILDING                            ,         1
+Fall      ,FACTORY/MANUFACTURING BUILDING                              ,      1619
+Fall      ,FEDERAL BUILDING                                            ,       221
+Fall      ,FIRE STATION                                                ,       223
+Fall      ,FOREST PRESERVE                                             ,        96
+Fall      ,FUNERAL PARLOR                                              ,         1
+Fall      ,GANGWAY                                                     ,        22
+Fall      ,GARAGE                                                      ,        19
+Fall      ,GARAGE/AUTO REPAIR                                          ,         4
+Fall      ,GAS STATION                                                 ,     17935
+Fall      ,GAS STATION DRIVE/PROP.                                     ,        14
+Fall      ,GOVERNMENT BUILDING                                         ,         1
+Fall      ,GOVERNMENT BUILDING / PROPERTY                              ,         2
+Fall      ,GOVERNMENT BUILDING/PROPERTY                                ,      3131
+Fall      ,GROCERY FOOD STORE                                          ,     20833
+Fall      ,HALLWAY                                                     ,        29
+Fall      ,HIGHWAY/EXPRESSWAY                                          ,       212
+Fall      ,HORSE STABLE                                                ,         1
+Fall      ,HOSPITAL                                                    ,         5
+Fall      ,HOSPITAL BUILDING / GROUNDS                                 ,         5
+Fall      ,HOSPITAL BUILDING/GROUNDS                                   ,      5002
+Fall      ,HOTEL                                                       ,         2
+Fall      ,HOTEL / MOTEL                                               ,         3
+Fall      ,HOTEL/MOTEL                                                 ,      6458
+Fall      ,HOUSE                                                       ,       131
+Fall      ,JAIL / LOCK-UP FACILITY                                     ,       318
+Fall      ,KENNEL                                                      ,         1
+Fall      ,LAGOON                                                      ,         1
+Fall      ,LAKE                                                        ,         2
+Fall      ,LAKEFRONT/WATERFRONT/RIVERBANK                              ,       167
+Fall      ,LIBRARY                                                     ,      1464
+Fall      ,LIQUOR STORE                                                ,         1
+Fall      ,LIVERY AUTO                                                 ,         1
+Fall      ,MEDICAL / DENTAL OFFICE                                     ,         1
+Fall      ,MEDICAL/DENTAL OFFICE                                       ,      1715
+Fall      ,MOTEL                                                       ,         2
+Fall      ,MOVIE HOUSE/THEATER                                         ,       636
+Fall      ,NEWSSTAND                                                   ,        42
+Fall      ,NURSING / RETIREMENT HOME                                   ,         3
+Fall      ,NURSING HOME                                                ,         2
+Fall      ,NURSING HOME/RETIREMENT HOME                                ,      3301
+Fall      ,OFFICE                                                      ,         3
+Fall      ,OTHER                                                       ,     60275
+Fall      ,OTHER (SPECIFY)                                             ,        34
+Fall      ,OTHER COMMERCIAL TRANSPORTATION                             ,       716
+Fall      ,OTHER RAILROAD PROP / TRAIN DEPOT                           ,      1337
+Fall      ,PARK PROPERTY                                               ,     10471
+Fall      ,PARKING LOT                                                 ,        34
+Fall      ,PARKING LOT / GARAGE (NON RESIDENTIAL)                      ,        20
+Fall      ,PARKING LOT/GARAGE(NON.RESID.)                              ,     47013
+Fall      ,PAWN SHOP                                                   ,       142
+Fall      ,POLICE FACILITY / VEHICLE PARKING LOT                       ,         4
+Fall      ,POLICE FACILITY/VEH PARKING LOT                             ,      3939
+Fall      ,POOL ROOM                                                   ,       226
+Fall      ,PORCH                                                       ,        72
+Fall      ,RAILROAD PROPERTY                                           ,         1
+Fall      ,RESIDENCE                                                   ,    265846
+Fall      ,RESIDENCE - GARAGE                                          ,         6
+Fall      ,RESIDENCE - PORCH / HALLWAY                                 ,        16
+Fall      ,RESIDENCE - YARD (FRONT / BACK)                             ,         8
+Fall      ,RESIDENCE PORCH/HALLWAY                                     ,     28288
+Fall      ,RESIDENCE-GARAGE                                            ,     32176
+Fall      ,RESIDENTIAL YARD (FRONT/BACK)                               ,     19023
+Fall      ,RESTAURANT                                                  ,     26396
+Fall      ,RETAIL STORE                                                ,        18
+Fall      ,RIVER BANK                                                  ,         2
+Fall      ,ROOMING HOUSE                                               ,         1
+Fall      ,SAVINGS AND LOAN                                            ,        85
+Fall      ,SCHOOL - PRIVATE BUILDING                                   ,         2
+Fall      ,SCHOOL - PRIVATE GROUNDS                                    ,         1
+Fall      ,SCHOOL - PUBLIC BUILDING                                    ,        13
+Fall      ,SCHOOL - PUBLIC GROUNDS                                     ,         4
+Fall      ,SCHOOL YARD                                                 ,         1
+Fall      ,SCHOOL; PRIVATE; BUILDING                                   ,      3511
+Fall      ,SCHOOL; PRIVATE; GROUNDS                                    ,      1197
+Fall      ,SCHOOL; PUBLIC; BUILDING                                    ,     35995
+Fall      ,SCHOOL; PUBLIC; GROUNDS                                     ,      7991
+Fall      ,SEWER                                                       ,         1
+Fall      ,SIDEWALK                                                    ,    169677
+Fall      ,SMALL RETAIL STORE                                          ,     30623
+Fall      ,SPORTS ARENA/STADIUM                                        ,      1180
+Fall      ,STAIRWELL                                                   ,        10
+Fall      ,STREET                                                      ,    426626
+Fall      ,TAVERN                                                      ,         8
+Fall      ,TAVERN/LIQUOR STORE                                         ,      4719
+Fall      ,TAXI CAB                                                    ,         1
+Fall      ,TAXICAB                                                     ,      1738
+Fall      ,TRAILER                                                     ,         1
+Fall      ,TRUCK                                                       ,         1
+Fall      ,VACANT LOT                                                  ,        32
+Fall      ,VACANT LOT / LAND                                           ,         1
+Fall      ,VACANT LOT/LAND                                             ,      6361
+Fall      ,VEHICLE - COMMERCIAL                                        ,         1
+Fall      ,VEHICLE - DELIVERY TRUCK                                    ,        37
+Fall      ,VEHICLE - OTHER RIDE SERVICE                                ,        97
+Fall      ,VEHICLE - OTHER RIDE SHARE SERVICE (E.G.; UBER; LYFT)       ,       116
+Fall      ,VEHICLE - OTHER RIDE SHARE SERVICE (LYFT; UBER; ETC.)       ,         3
+Fall      ,VEHICLE NON-COMMERCIAL                                      ,     26566
+Fall      ,VEHICLE-COMMERCIAL                                          ,      1375
+Fall      ,VEHICLE-COMMERCIAL - ENTERTAINMENT/PARTY BUS                ,         5
+Fall      ,VEHICLE-COMMERCIAL - TROLLEY BUS                            ,         2
+Fall      ,VESTIBULE                                                   ,         6
+Fall      ,WAREHOUSE                                                   ,      2261
+Fall      ,YARD                                                        ,        62
+Fall      ,YMCA                                                        ,         1
+Spring    ,ABANDONED BUILDING                                          ,      2670
+Spring    ,AIRCRAFT                                                    ,       167
+Spring    ,AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA             ,       238
+Spring    ,AIRPORT BUILDING NON-TERMINAL - SECURE AREA                 ,       152
+Spring    ,AIRPORT EXTERIOR - NON-SECURE AREA                          ,       201
+Spring    ,AIRPORT EXTERIOR - SECURE AREA                              ,        71
+Spring    ,AIRPORT PARKING LOT                                         ,       182
+Spring    ,AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA              ,       464
+Spring    ,AIRPORT TERMINAL LOWER LEVEL - SECURE AREA                  ,       165
+Spring    ,AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA                ,        28
+Spring    ,AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA              ,       214
+Spring    ,AIRPORT TERMINAL UPPER LEVEL - SECURE AREA                  ,       959
+Spring    ,AIRPORT TRANSPORTATION SYSTEM (ATS)                         ,        18
+Spring    ,AIRPORT VENDING ESTABLISHMENT                               ,       239
+Spring    ,AIRPORT/AIRCRAFT                                            ,      3393
+Spring    ,ALLEY                                                       ,     36002
+Spring    ,ANIMAL HOSPITAL                                             ,       196
+Spring    ,APARTMENT                                                   ,    178202
+Spring    ,APPLIANCE STORE                                             ,       424
+Spring    ,ATHLETIC CLUB                                               ,      2124
+Spring    ,ATM (AUTOMATIC TELLER MACHINE)                              ,      2016
+Spring    ,AUTO                                                        ,       259
+Spring    ,AUTO / BOAT / RV DEALERSHIP                                 ,       138
+Spring    ,BANK                                                        ,      6357
+Spring    ,BAR OR TAVERN                                               ,      8961
+Spring    ,BARBER SHOP/BEAUTY SALON                                    ,         6
+Spring    ,BARBERSHOP                                                  ,      1920
+Spring    ,BASEMENT                                                    ,         4
+Spring    ,BOAT/WATERCRAFT                                             ,       124
+Spring    ,BOWLING ALLEY                                               ,       151
+Spring    ,BRIDGE                                                      ,        87
+Spring    ,CAR WASH                                                    ,       606
+Spring    ,CEMETARY                                                    ,        91
+Spring    ,CHA APARTMENT                                               ,      7389
+Spring    ,CHA ELEVATOR                                                ,         1
+Spring    ,CHA GROUNDS                                                 ,        10
+Spring    ,CHA HALLWAY                                                 ,         7
+Spring    ,CHA HALLWAY / STAIRWELL / ELEVATOR                          ,        17
+Spring    ,CHA HALLWAY/STAIRWELL/ELEVATOR                              ,      5577
+Spring    ,CHA PARKING LOT                                             ,         8
+Spring    ,CHA PARKING LOT / GROUNDS                                   ,        45
+Spring    ,CHA PARKING LOT/GROUNDS                                     ,     11108
+Spring    ,CHA PLAY LOT                                                ,         1
+Spring    ,CHA STAIRWELL                                               ,         2
+Spring    ,CHURCH / SYNAGOGUE / PLACE OF WORSHIP                       ,        39
+Spring    ,CHURCH/SYNAGOGUE/PLACE OF WORSHIP                           ,      3484
+Spring    ,CLEANERS/LAUNDROMAT                                         ,         1
+Spring    ,CLEANING STORE                                              ,       987
+Spring    ,CLUB                                                        ,         5
+Spring    ,COACH HOUSE                                                 ,         1
+Spring    ,COIN OPERATED MACHINE                                       ,       241
+Spring    ,COLLEGE / UNIVERSITY - GROUNDS                              ,         6
+Spring    ,COLLEGE / UNIVERSITY - RESIDENCE HALL                       ,         1
+Spring    ,COLLEGE/UNIVERSITY GROUNDS                                  ,      1436
+Spring    ,COLLEGE/UNIVERSITY RESIDENCE HALL                           ,       404
+Spring    ,COMMERCIAL / BUSINESS OFFICE                                ,     10925
+Spring    ,CONSTRUCTION SITE                                           ,      2821
+Spring    ,CONVENIENCE STORE                                           ,      4686
+Spring    ,COUNTY JAIL                                                 ,         1
+Spring    ,CREDIT UNION                                                ,       111
+Spring    ,CTA "L" PLATFORM                                            ,         3
+Spring    ,CTA "L" TRAIN                                               ,         1
+Spring    ,CTA BUS                                                     ,      5385
+Spring    ,CTA BUS STOP                                                ,      1660
+Spring    ,CTA GARAGE / OTHER PROPERTY                                 ,      2337
+Spring    ,CTA PARKING LOT / GARAGE / OTHER PROPERTY                   ,        13
+Spring    ,CTA PLATFORM                                                ,      8474
+Spring    ,CTA PROPERTY                                                ,         1
+Spring    ,CTA STATION                                                 ,      1279
+Spring    ,CTA TRACKS - RIGHT OF WAY                                   ,        37
+Spring    ,CTA TRAIN                                                   ,      6217
+Spring    ,CURRENCY EXCHANGE                                           ,      2538
+Spring    ,DAY CARE CENTER                                             ,       727
+Spring    ,DELIVERY TRUCK                                              ,       188
+Spring    ,DEPARTMENT STORE                                            ,     19469
+Spring    ,DRIVEWAY                                                    ,         5
+Spring    ,DRIVEWAY - RESIDENTIAL                                      ,      4488
+Spring    ,DRUG STORE                                                  ,      7336
+Spring    ,DUMPSTER                                                    ,         2
+Spring    ,FACTORY                                                     ,         1
+Spring    ,FACTORY / MANUFACTURING BUILDING                            ,        12
+Spring    ,FACTORY/MANUFACTURING BUILDING                              ,      1425
+Spring    ,FARM                                                        ,         4
+Spring    ,FEDERAL BUILDING                                            ,       155
+Spring    ,FIRE STATION                                                ,       239
+Spring    ,FOREST PRESERVE                                             ,        66
+Spring    ,GANGWAY                                                     ,        11
+Spring    ,GARAGE                                                      ,        10
+Spring    ,GARAGE/AUTO REPAIR                                          ,         3
+Spring    ,GAS STATION                                                 ,     17558
+Spring    ,GAS STATION DRIVE/PROP.                                     ,         8
+Spring    ,GOVERNMENT BUILDING / PROPERTY                              ,        28
+Spring    ,GOVERNMENT BUILDING/PROPERTY                                ,      3367
+Spring    ,GROCERY FOOD STORE                                          ,     19956
+Spring    ,HALLWAY                                                     ,        15
+Spring    ,HIGHWAY / EXPRESSWAY                                        ,         3
+Spring    ,HIGHWAY/EXPRESSWAY                                          ,       254
+Spring    ,HORSE STABLE                                                ,         1
+Spring    ,HOSPITAL                                                    ,         1
+Spring    ,HOSPITAL BUILDING / GROUNDS                                 ,       103
+Spring    ,HOSPITAL BUILDING/GROUNDS                                   ,      4935
+Spring    ,HOTEL                                                       ,         7
+Spring    ,HOTEL / MOTEL                                               ,       112
+Spring    ,HOTEL/MOTEL                                                 ,      6780
+Spring    ,HOUSE                                                       ,       143
+Spring    ,JAIL / LOCK-UP FACILITY                                     ,       258
+Spring    ,KENNEL                                                      ,         2
+Spring    ,LAKEFRONT / WATERFRONT / RIVERBANK                          ,         2
+Spring    ,LAKEFRONT/WATERFRONT/RIVERBANK                              ,       161
+Spring    ,LIBRARY                                                     ,      1445
+Spring    ,LIQUOR STORE                                                ,         5
+Spring    ,LOADING DOCK                                                ,         1
+Spring    ,MEDICAL / DENTAL OFFICE                                     ,        26
+Spring    ,MEDICAL/DENTAL OFFICE                                       ,      1637
+Spring    ,MOTEL                                                       ,         3
+Spring    ,MOVIE HOUSE / THEATER                                       ,         2
+Spring    ,MOVIE HOUSE/THEATER                                         ,       594
+Spring    ,NEWSSTAND                                                   ,        50
+Spring    ,NURSING / RETIREMENT HOME                                   ,        80
+Spring    ,NURSING HOME                                                ,         1
+Spring    ,NURSING HOME/RETIREMENT HOME                                ,      3264
+Spring    ,OFFICE                                                      ,         4
+Spring    ,OTHER                                                       ,     59338
+Spring    ,OTHER (SPECIFY)                                             ,       495
+Spring    ,OTHER COMMERCIAL TRANSPORTATION                             ,       702
+Spring    ,OTHER RAILROAD PROP / TRAIN DEPOT                           ,      1273
+Spring    ,OTHER RAILROAD PROPERTY / TRAIN DEPOT                       ,        14
+Spring    ,PARK PROPERTY                                               ,     10570
+Spring    ,PARKING LOT                                                 ,        48
+Spring    ,PARKING LOT / GARAGE (NON RESIDENTIAL)                      ,       452
+Spring    ,PARKING LOT/GARAGE(NON.RESID.)                              ,     44615
+Spring    ,PAWN SHOP                                                   ,       131
+Spring    ,POLICE FACILITY / VEHICLE PARKING LOT                       ,        39
+Spring    ,POLICE FACILITY/VEH PARKING LOT                             ,      4414
+Spring    ,POOL ROOM                                                   ,       209
+Spring    ,PORCH                                                       ,        68
+Spring    ,PRAIRIE                                                     ,         2
+Spring    ,PUBLIC HIGH SCHOOL                                          ,         1
+Spring    ,RESIDENCE                                                   ,    269216
+Spring    ,RESIDENCE - GARAGE                                          ,       232
+Spring    ,RESIDENCE - PORCH / HALLWAY                                 ,       364
+Spring    ,RESIDENCE - YARD (FRONT / BACK)                             ,       338
+Spring    ,RESIDENCE PORCH/HALLWAY                                     ,     26755
+Spring    ,RESIDENCE-GARAGE                                            ,     28813
+Spring    ,RESIDENTIAL YARD (FRONT/BACK)                               ,     17686
+Spring    ,RESTAURANT                                                  ,     25988
+Spring    ,RETAIL STORE                                                ,        17
+Spring    ,RIVER                                                       ,         1
+Spring    ,SAVINGS AND LOAN                                            ,        51
+Spring    ,SCHOOL - PRIVATE BUILDING                                   ,        29
+Spring    ,SCHOOL - PRIVATE GROUNDS                                    ,        10
+Spring    ,SCHOOL - PUBLIC BUILDING                                    ,       144
+Spring    ,SCHOOL - PUBLIC GROUNDS                                     ,        46
+Spring    ,SCHOOL YARD                                                 ,         1
+Spring    ,SCHOOL; PRIVATE; BUILDING                                   ,      3828
+Spring    ,SCHOOL; PRIVATE; GROUNDS                                    ,      1116
+Spring    ,SCHOOL; PUBLIC; BUILDING                                    ,     44304
+Spring    ,SCHOOL; PUBLIC; GROUNDS                                     ,      9083
+Spring    ,SIDEWALK                                                    ,    159247
+Spring    ,SMALL RETAIL STORE                                          ,     28699
+Spring    ,SPORTS ARENA / STADIUM                                      ,         3
+Spring    ,SPORTS ARENA/STADIUM                                        ,      1170
+Spring    ,STAIRWELL                                                   ,         3
+Spring    ,STREET                                                      ,    407598
+Spring    ,TAVERN                                                      ,         5
+Spring    ,TAVERN / LIQUOR STORE                                       ,        32
+Spring    ,TAVERN/LIQUOR STORE                                         ,      4927
+Spring    ,TAXI CAB                                                    ,         3
+Spring    ,TAXICAB                                                     ,      1745
+Spring    ,TRUCK                                                       ,         1
+Spring    ,VACANT LOT                                                  ,        22
+Spring    ,VACANT LOT / LAND                                           ,        40
+Spring    ,VACANT LOT/LAND                                             ,      5612
+Spring    ,VEHICLE - COMMERCIAL                                        ,         9
+Spring    ,VEHICLE - DELIVERY TRUCK                                    ,        32
+Spring    ,VEHICLE - OTHER RIDE SERVICE                                ,        67
+Spring    ,VEHICLE - OTHER RIDE SHARE SERVICE (E.G.; UBER; LYFT)       ,       110
+Spring    ,VEHICLE - OTHER RIDE SHARE SERVICE (LYFT; UBER; ETC.)       ,         9
+Spring    ,VEHICLE NON-COMMERCIAL                                      ,     26572
+Spring    ,VEHICLE-COMMERCIAL                                          ,      1222
+Spring    ,VEHICLE-COMMERCIAL - ENTERTAINMENT/PARTY BUS                ,         2
+Spring    ,VEHICLE-COMMERCIAL - TROLLEY BUS                            ,         2
+Spring    ,VESTIBULE                                                   ,         4
+Spring    ,WAREHOUSE                                                   ,      2021
+Spring    ,WOODED AREA                                                 ,         2
+Spring    ,YARD                                                        ,        57
+Spring    ,YMCA                                                        ,         1
+Summer    ,ABANDONED BUILDING                                          ,      3126
+Summer    ,AIRCRAFT                                                    ,       189
+Summer    ,AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA             ,       231
+Summer    ,AIRPORT BUILDING NON-TERMINAL - SECURE AREA                 ,       160
+Summer    ,AIRPORT EXTERIOR - NON-SECURE AREA                          ,       240
+Summer    ,AIRPORT EXTERIOR - SECURE AREA                              ,        88
+Summer    ,AIRPORT PARKING LOT                                         ,       231
+Summer    ,AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA              ,       405
+Summer    ,AIRPORT TERMINAL LOWER LEVEL - SECURE AREA                  ,       189
+Summer    ,AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA                ,        18
+Summer    ,AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA              ,       172
+Summer    ,AIRPORT TERMINAL UPPER LEVEL - SECURE AREA                  ,      1163
+Summer    ,AIRPORT TRANSPORTATION SYSTEM (ATS)                         ,        23
+Summer    ,AIRPORT VENDING ESTABLISHMENT                               ,       258
+Summer    ,AIRPORT/AIRCRAFT                                            ,      3608
+Summer    ,ALLEY                                                       ,     44458
+Summer    ,ANIMAL HOSPITAL                                             ,       179
+Summer    ,APARTMENT                                                   ,    185259
+Summer    ,APPLIANCE STORE                                             ,       436
+Summer    ,ATHLETIC CLUB                                               ,      2036
+Summer    ,ATM (AUTOMATIC TELLER MACHINE)                              ,      2076
+Summer    ,AUTO                                                        ,       329
+Summer    ,AUTO / BOAT / RV DEALERSHIP                                 ,       111
+Summer    ,BANK                                                        ,      6888
+Summer    ,BAR OR TAVERN                                               ,      8696
+Summer    ,BARBER SHOP/BEAUTY SALON                                    ,         2
+Summer    ,BARBERSHOP                                                  ,      1861
+Summer    ,BASEMENT                                                    ,         6
+Summer    ,BOAT / WATERCRAFT                                           ,         1
+Summer    ,BOAT/WATERCRAFT                                             ,       342
+Summer    ,BOWLING ALLEY                                               ,       106
+Summer    ,BRIDGE                                                      ,       119
+Summer    ,CAR WASH                                                    ,       802
+Summer    ,CEMETARY                                                    ,       111
+Summer    ,CHA APARTMENT                                               ,      7658
+Summer    ,CHA BREEZEWAY                                               ,         2
+Summer    ,CHA GROUNDS                                                 ,        18
+Summer    ,CHA HALLWAY                                                 ,         6
+Summer    ,CHA HALLWAY / STAIRWELL / ELEVATOR                          ,         3
+Summer    ,CHA HALLWAY/STAIRWELL/ELEVATOR                              ,      4334
+Summer    ,CHA LOBBY                                                   ,         1
+Summer    ,CHA PARKING LOT                                             ,        16
+Summer    ,CHA PARKING LOT / GROUNDS                                   ,         2
+Summer    ,CHA PARKING LOT/GROUNDS                                     ,     13574
+Summer    ,CHA PLAY LOT                                                ,         2
+Summer    ,CHURCH                                                      ,         2
+Summer    ,CHURCH / SYNAGOGUE / PLACE OF WORSHIP                       ,         2
+Summer    ,CHURCH/SYNAGOGUE/PLACE OF WORSHIP                           ,      4049
+Summer    ,CLEANING STORE                                              ,      1147
+Summer    ,CLUB                                                        ,         1
+Summer    ,COACH HOUSE                                                 ,         1
+Summer    ,COIN OPERATED MACHINE                                       ,       256
+Summer    ,COLLEGE/UNIVERSITY GROUNDS                                  ,      1105
+Summer    ,COLLEGE/UNIVERSITY RESIDENCE HALL                           ,       174
+Summer    ,COMMERCIAL / BUSINESS OFFICE                                ,     11964
+Summer    ,CONSTRUCTION SITE                                           ,      3499
+Summer    ,CONVENIENCE STORE                                           ,      4955
+Summer    ,CREDIT UNION                                                ,       121
+Summer    ,CTA "L" PLATFORM                                            ,         3
+Summer    ,CTA "L" TRAIN                                               ,         1
+Summer    ,CTA BUS                                                     ,      4947
+Summer    ,CTA BUS STOP                                                ,      1944
+Summer    ,CTA GARAGE / OTHER PROPERTY                                 ,      2701
+Summer    ,CTA PLATFORM                                                ,      8533
+Summer    ,CTA PROPERTY                                                ,         1
+Summer    ,CTA STATION                                                 ,      1455
+Summer    ,CTA TRACKS - RIGHT OF WAY                                   ,        48
+Summer    ,CTA TRAIN                                                   ,      6740
+Summer    ,CURRENCY EXCHANGE                                           ,      2709
+Summer    ,DAY CARE CENTER                                             ,       784
+Summer    ,DELIVERY TRUCK                                              ,       257
+Summer    ,DEPARTMENT STORE                                            ,     20817
+Summer    ,DRIVEWAY                                                    ,         6
+Summer    ,DRIVEWAY - RESIDENTIAL                                      ,      5826
+Summer    ,DRUG STORE                                                  ,      7192
+Summer    ,DUMPSTER                                                    ,         1
+Summer    ,FACTORY/MANUFACTURING BUILDING                              ,      1739
+Summer    ,FARM                                                        ,         2
+Summer    ,FEDERAL BUILDING                                            ,       219
+Summer    ,FIRE STATION                                                ,       283
+Summer    ,FOREST PRESERVE                                             ,       130
+Summer    ,GANGWAY                                                     ,        15
+Summer    ,GARAGE                                                      ,        17
+Summer    ,GARAGE/AUTO REPAIR                                          ,         1
+Summer    ,GAS STATION                                                 ,     19416
+Summer    ,GAS STATION DRIVE/PROP.                                     ,        16
+Summer    ,GOVERNMENT BUILDING/PROPERTY                                ,      3451
+Summer    ,GROCERY FOOD STORE                                          ,     21187
+Summer    ,HALLWAY                                                     ,        17
+Summer    ,HIGHWAY/EXPRESSWAY                                          ,       278
+Summer    ,HOSPITAL                                                    ,         1
+Summer    ,HOSPITAL BUILDING / GROUNDS                                 ,         3
+Summer    ,HOSPITAL BUILDING/GROUNDS                                   ,      5295
+Summer    ,HOTEL                                                       ,         7
+Summer    ,HOTEL / MOTEL                                               ,         6
+Summer    ,HOTEL/MOTEL                                                 ,      7173
+Summer    ,HOUSE                                                       ,       137
+Summer    ,JAIL / LOCK-UP FACILITY                                     ,       278
+Summer    ,JUNK YARD/GARBAGE DUMP                                      ,         1
+Summer    ,KENNEL                                                      ,         3
+Summer    ,LAKEFRONT / WATERFRONT / RIVERBANK                          ,         1
+Summer    ,LAKEFRONT/WATERFRONT/RIVERBANK                              ,       722
+Summer    ,LIBRARY                                                     ,      1280
+Summer    ,LIQUOR STORE                                                ,         1
+Summer    ,MEDICAL / DENTAL OFFICE                                     ,         1
+Summer    ,MEDICAL/DENTAL OFFICE                                       ,      1732
+Summer    ,MOVIE HOUSE/THEATER                                         ,       536
+Summer    ,NEWSSTAND                                                   ,        61
+Summer    ,NURSING / RETIREMENT HOME                                   ,         1
+Summer    ,NURSING HOME                                                ,         1
+Summer    ,NURSING HOME/RETIREMENT HOME                                ,      3413
+Summer    ,OFFICE                                                      ,         4
+Summer    ,OTHER                                                       ,     66890
+Summer    ,OTHER (SPECIFY)                                             ,        22
+Summer    ,OTHER COMMERCIAL TRANSPORTATION                             ,       744
+Summer    ,OTHER RAILROAD PROP / TRAIN DEPOT                           ,      1550
+Summer    ,PARK PROPERTY                                               ,     24699
+Summer    ,PARKING LOT                                                 ,        48
+Summer    ,PARKING LOT / GARAGE (NON RESIDENTIAL)                      ,         8
+Summer    ,PARKING LOT/GARAGE(NON.RESID.)                              ,     50657
+Summer    ,PAWN SHOP                                                   ,       177
+Summer    ,POLICE FACILITY / VEHICLE PARKING LOT                       ,         1
+Summer    ,POLICE FACILITY/VEH PARKING LOT                             ,      4442
+Summer    ,POOL ROOM                                                   ,       223
+Summer    ,PORCH                                                       ,       124
+Summer    ,PUBLIC GRAMMAR SCHOOL                                       ,         1
+Summer    ,PUBLIC HIGH SCHOOL                                          ,         1
+Summer    ,RAILROAD PROPERTY                                           ,        10
+Summer    ,RESIDENCE                                                   ,    286274
+Summer    ,RESIDENCE - GARAGE                                          ,         8
+Summer    ,RESIDENCE - PORCH / HALLWAY                                 ,        11
+Summer    ,RESIDENCE - YARD (FRONT / BACK)                             ,         9
+Summer    ,RESIDENCE PORCH/HALLWAY                                     ,     34614
+Summer    ,RESIDENCE-GARAGE                                            ,     36736
+Summer    ,RESIDENTIAL YARD (FRONT/BACK)                               ,     26809
+Summer    ,RESTAURANT                                                  ,     26974
+Summer    ,RETAIL STORE                                                ,        19
+Summer    ,RIVER                                                       ,         3
+Summer    ,RIVER BANK                                                  ,         1
+Summer    ,SAVINGS AND LOAN                                            ,        91
+Summer    ,SCHOOL - PUBLIC BUILDING                                    ,         6
+Summer    ,SCHOOL YARD                                                 ,         7
+Summer    ,SCHOOL; PRIVATE; BUILDING                                   ,      2073
+Summer    ,SCHOOL; PRIVATE; GROUNDS                                    ,       808
+Summer    ,SCHOOL; PUBLIC; BUILDING                                    ,     13829
+Summer    ,SCHOOL; PUBLIC; GROUNDS                                     ,      4973
+Summer    ,SIDEWALK                                                    ,    200900
+Summer    ,SMALL RETAIL STORE                                          ,     30919
+Summer    ,SPORTS ARENA/STADIUM                                        ,      1582
+Summer    ,STAIRWELL                                                   ,         4
+Summer    ,STREET                                                      ,    468842
+Summer    ,TAVERN                                                      ,         7
+Summer    ,TAVERN/LIQUOR STORE                                         ,      4589
+Summer    ,TAXI CAB                                                    ,         1
+Summer    ,TAXICAB                                                     ,      1779
+Summer    ,TRAILER                                                     ,         3
+Summer    ,TRUCK                                                       ,         3
+Summer    ,TRUCKING TERMINAL                                           ,         1
+Summer    ,VACANT LOT                                                  ,        27
+Summer    ,VACANT LOT / LAND                                           ,         3
+Summer    ,VACANT LOT/LAND                                             ,      6752
+Summer    ,VEHICLE - COMMERCIAL                                        ,         1
+Summer    ,VEHICLE - DELIVERY TRUCK                                    ,        53
+Summer    ,VEHICLE - OTHER RIDE SERVICE                                ,       101
+Summer    ,VEHICLE - OTHER RIDE SHARE SERVICE (E.G.; UBER; LYFT)       ,       116
+Summer    ,VEHICLE NON-COMMERCIAL                                      ,     31380
+Summer    ,VEHICLE-COMMERCIAL                                          ,      1452
+Summer    ,VEHICLE-COMMERCIAL - ENTERTAINMENT/PARTY BUS                ,         2
+Summer    ,VEHICLE-COMMERCIAL - TROLLEY BUS                            ,         5
+Summer    ,VESTIBULE                                                   ,         4
+Summer    ,WAREHOUSE                                                   ,      2412
+Summer    ,WOODED AREA                                                 ,         3
+Summer    ,YARD                                                        ,        69
+Winter    ,ABANDONED BUILDING                                          ,      2142
+Winter    ,AIRCRAFT                                                    ,       155
+Winter    ,AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA             ,       246
+Winter    ,AIRPORT BUILDING NON-TERMINAL - SECURE AREA                 ,       149
+Winter    ,AIRPORT EXTERIOR - NON-SECURE AREA                          ,       169
+Winter    ,AIRPORT EXTERIOR - SECURE AREA                              ,        72
+Winter    ,AIRPORT PARKING LOT                                         ,       158
+Winter    ,AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA              ,       520
+Winter    ,AIRPORT TERMINAL LOWER LEVEL - SECURE AREA                  ,       151
+Winter    ,AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA                ,        17
+Winter    ,AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA              ,       188
+Winter    ,AIRPORT TERMINAL UPPER LEVEL - SECURE AREA                  ,       989
+Winter    ,AIRPORT TRANSPORTATION SYSTEM (ATS)                         ,        24
+Winter    ,AIRPORT VENDING ESTABLISHMENT                               ,       172
+Winter    ,AIRPORT/AIRCRAFT                                            ,      2918
+Winter    ,ALLEY                                                       ,     25443
+Winter    ,ANIMAL HOSPITAL                                             ,       195
+Winter    ,APARTMENT                                                   ,    168803
+Winter    ,APPLIANCE STORE                                             ,       415
+Winter    ,ATHLETIC CLUB                                               ,      2143
+Winter    ,ATM (AUTOMATIC TELLER MACHINE)                              ,      1862
+Winter    ,AUTO                                                        ,       231
+Winter    ,AUTO / BOAT / RV DEALERSHIP                                 ,       132
+Winter    ,BANK                                                        ,      5997
+Winter    ,BAR OR TAVERN                                               ,      9640
+Winter    ,BARBERSHOP                                                  ,      1781
+Winter    ,BASEMENT                                                    ,         5
+Winter    ,BOAT/WATERCRAFT                                             ,        20
+Winter    ,BOWLING ALLEY                                               ,       216
+Winter    ,BRIDGE                                                      ,        69
+Winter    ,CAR WASH                                                    ,       599
+Winter    ,CEMETARY                                                    ,        59
+Winter    ,CHA APARTMENT                                               ,      7052
+Winter    ,CHA ELEVATOR                                                ,         1
+Winter    ,CHA GROUNDS                                                 ,         2
+Winter    ,CHA HALLWAY                                                 ,         9
+Winter    ,CHA HALLWAY / STAIRWELL / ELEVATOR                          ,         8
+Winter    ,CHA HALLWAY/STAIRWELL/ELEVATOR                              ,      5735
+Winter    ,CHA LOBBY                                                   ,         2
+Winter    ,CHA PARKING LOT                                             ,         6
+Winter    ,CHA PARKING LOT / GROUNDS                                   ,         4
+Winter    ,CHA PARKING LOT/GROUNDS                                     ,      8931
+Winter    ,CHA STAIRWELL                                               ,         2
+Winter    ,CHURCH                                                      ,         3
+Winter    ,CHURCH / SYNAGOGUE / PLACE OF WORSHIP                       ,         6
+Winter    ,CHURCH/SYNAGOGUE/PLACE OF WORSHIP                           ,      3057
+Winter    ,CLEANING STORE                                              ,       941
+Winter    ,CLUB                                                        ,         7
+Winter    ,COIN OPERATED MACHINE                                       ,       236
+Winter    ,COLLEGE / UNIVERSITY - GROUNDS                              ,         5
+Winter    ,COLLEGE / UNIVERSITY - RESIDENCE HALL                       ,         1
+Winter    ,COLLEGE/UNIVERSITY GROUNDS                                  ,      1188
+Winter    ,COLLEGE/UNIVERSITY RESIDENCE HALL                           ,       308
+Winter    ,COMMERCIAL / BUSINESS OFFICE                                ,     10228
+Winter    ,CONSTRUCTION SITE                                           ,      2498
+Winter    ,CONVENIENCE STORE                                           ,      4761
+Winter    ,CREDIT UNION                                                ,       130
+Winter    ,CTA BUS                                                     ,      5014
+Winter    ,CTA BUS STOP                                                ,      1370
+Winter    ,CTA GARAGE / OTHER PROPERTY                                 ,      2365
+Winter    ,CTA PARKING LOT / GARAGE / OTHER PROPERTY                   ,         2
+Winter    ,CTA PLATFORM                                                ,      7749
+Winter    ,CTA PROPERTY                                                ,         3
+Winter    ,CTA STATION                                                 ,      1215
+Winter    ,CTA SUBWAY STATION                                          ,         1
+Winter    ,CTA TRACKS - RIGHT OF WAY                                   ,        36
+Winter    ,CTA TRAIN                                                   ,      6077
+Winter    ,CURRENCY EXCHANGE                                           ,      2440
+Winter    ,DAY CARE CENTER                                             ,       623
+Winter    ,DELIVERY TRUCK                                              ,       174
+Winter    ,DEPARTMENT STORE                                            ,     20596
+Winter    ,DRIVEWAY                                                    ,         2
+Winter    ,DRIVEWAY - RESIDENTIAL                                      ,      3616
+Winter    ,DRUG STORE                                                  ,      6822
+Winter    ,DUMPSTER                                                    ,         1
+Winter    ,ELEVATOR                                                    ,         1
+Winter    ,EXPRESSWAY EMBANKMENT                                       ,         1
+Winter    ,FACTORY / MANUFACTURING BUILDING                            ,         4
+Winter    ,FACTORY/MANUFACTURING BUILDING                              ,      1188
+Winter    ,FEDERAL BUILDING                                            ,       159
+Winter    ,FIRE STATION                                                ,       210
+Winter    ,FOREST PRESERVE                                             ,        46
+Winter    ,GANGWAY                                                     ,        15
+Winter    ,GARAGE                                                      ,        11
+Winter    ,GARAGE/AUTO REPAIR                                          ,         2
+Winter    ,GAS STATION                                                 ,     16053
+Winter    ,GAS STATION DRIVE/PROP.                                     ,         6
+Winter    ,GOVERNMENT BUILDING                                         ,         1
+Winter    ,GOVERNMENT BUILDING / PROPERTY                              ,        14
+Winter    ,GOVERNMENT BUILDING/PROPERTY                                ,      3038
+Winter    ,GROCERY FOOD STORE                                          ,     18859
+Winter    ,HALLWAY                                                     ,        23
+Winter    ,HIGHWAY/EXPRESSWAY                                          ,       177
+Winter    ,HORSE STABLE                                                ,         1
+Winter    ,HOSPITAL                                                    ,         1
+Winter    ,HOSPITAL BUILDING / GROUNDS                                 ,        30
+Winter    ,HOSPITAL BUILDING/GROUNDS                                   ,      4953
+Winter    ,HOTEL                                                       ,         4
+Winter    ,HOTEL / MOTEL                                               ,        36
+Winter    ,HOTEL/MOTEL                                                 ,      6340
+Winter    ,HOUSE                                                       ,       119
+Winter    ,JAIL / LOCK-UP FACILITY                                     ,       250
+Winter    ,KENNEL                                                      ,         1
+Winter    ,LAKEFRONT/WATERFRONT/RIVERBANK                              ,        55
+Winter    ,LAUNDRY ROOM                                                ,         2
+Winter    ,LIBRARY                                                     ,      1584
+Winter    ,LIQUOR STORE                                                ,         1
+Winter    ,LIVERY STAND OFFICE                                         ,         2
+Winter    ,MEDICAL / DENTAL OFFICE                                     ,         7
+Winter    ,MEDICAL/DENTAL OFFICE                                       ,      1545
+Winter    ,MOVIE HOUSE / THEATER                                       ,         2
+Winter    ,MOVIE HOUSE/THEATER                                         ,       644
+Winter    ,NEWSSTAND                                                   ,        53
+Winter    ,NURSING / RETIREMENT HOME                                   ,        16
+Winter    ,NURSING HOME                                                ,         1
+Winter    ,NURSING HOME/RETIREMENT HOME                                ,      3201
+Winter    ,OFFICE                                                      ,         4
+Winter    ,OTHER                                                       ,     52965
+Winter    ,OTHER (SPECIFY)                                             ,       211
+Winter    ,OTHER COMMERCIAL TRANSPORTATION                             ,       614
+Winter    ,OTHER RAILROAD PROP / TRAIN DEPOT                           ,      1146
+Winter    ,OTHER RAILROAD PROPERTY / TRAIN DEPOT                       ,         2
+Winter    ,PARK PROPERTY                                               ,      3677
+Winter    ,PARKING LOT                                                 ,        38
+Winter    ,PARKING LOT / GARAGE (NON RESIDENTIAL)                      ,        90
+Winter    ,PARKING LOT/GARAGE(NON.RESID.)                              ,     39640
+Winter    ,PAWN SHOP                                                   ,       148
+Winter    ,POLICE FACILITY / VEHICLE PARKING LOT                       ,         9
+Winter    ,POLICE FACILITY/VEH PARKING LOT                             ,      4007
+Winter    ,POOL ROOM                                                   ,       231
+Winter    ,POOLROOM                                                    ,         1
+Winter    ,PORCH                                                       ,        34
+Winter    ,RAILROAD PROPERTY                                           ,         2
+Winter    ,RESIDENCE                                                   ,    245775
+Winter    ,RESIDENCE - GARAGE                                          ,        38
+Winter    ,RESIDENCE - PORCH / HALLWAY                                 ,        58
+Winter    ,RESIDENCE - YARD (FRONT / BACK)                             ,        32
+Winter    ,RESIDENCE PORCH/HALLWAY                                     ,     22725
+Winter    ,RESIDENCE-GARAGE                                            ,     24507
+Winter    ,RESIDENTIAL YARD (FRONT/BACK)                               ,     11392
+Winter    ,RESTAURANT                                                  ,     26056
+Winter    ,RETAIL STORE                                                ,        20
+Winter    ,RIVER BANK                                                  ,         1
+Winter    ,ROOMING HOUSE                                               ,         1
+Winter    ,SAVINGS AND LOAN                                            ,        94
+Winter    ,SCHOOL - PRIVATE BUILDING                                   ,        18
+Winter    ,SCHOOL - PRIVATE GROUNDS                                    ,         2
+Winter    ,SCHOOL - PUBLIC BUILDING                                    ,        66
+Winter    ,SCHOOL - PUBLIC GROUNDS                                     ,        22
+Winter    ,SCHOOL YARD                                                 ,         2
+Winter    ,SCHOOL; PRIVATE; BUILDING                                   ,      3213
+Winter    ,SCHOOL; PRIVATE; GROUNDS                                    ,       764
+Winter    ,SCHOOL; PUBLIC; BUILDING                                    ,     37303
+Winter    ,SCHOOL; PUBLIC; GROUNDS                                     ,      5684
+Winter    ,SEWER                                                       ,         2
+Winter    ,SIDEWALK                                                    ,    120828
+Winter    ,SMALL RETAIL STORE                                          ,     28191
+Winter    ,SPORTS ARENA / STADIUM                                      ,         2
+Winter    ,SPORTS ARENA/STADIUM                                        ,       989
+Winter    ,STAIRWELL                                                   ,         3
+Winter    ,STREET                                                      ,    344166
+Winter    ,TAVERN                                                      ,        12
+Winter    ,TAVERN / LIQUOR STORE                                       ,         4
+Winter    ,TAVERN/LIQUOR STORE                                         ,      4704
+Winter    ,TAXI CAB                                                    ,         1
+Winter    ,TAXICAB                                                     ,      1669
+Winter    ,TRUCK                                                       ,         3
+Winter    ,VACANT LOT                                                  ,        16
+Winter    ,VACANT LOT / LAND                                           ,         6
+Winter    ,VACANT LOT/LAND                                             ,      4159
+Winter    ,VEHICLE - COMMERCIAL                                        ,         6
+Winter    ,VEHICLE - DELIVERY TRUCK                                    ,        49
+Winter    ,VEHICLE - OTHER RIDE SERVICE                                ,        65
+Winter    ,VEHICLE - OTHER RIDE SHARE SERVICE (E.G.; UBER; LYFT)       ,       130
+Winter    ,VEHICLE - OTHER RIDE SHARE SERVICE (LYFT; UBER; ETC.)       ,         5
+Winter    ,VEHICLE NON-COMMERCIAL                                      ,     23257
+Winter    ,VEHICLE-COMMERCIAL                                          ,      1139
+Winter    ,VEHICLE-COMMERCIAL - ENTERTAINMENT/PARTY BUS                ,         1
+Winter    ,VEHICLE-COMMERCIAL - TROLLEY BUS                            ,         1
+Winter    ,VESTIBULE                                                   ,         5
+Winter    ,WAREHOUSE                                                   ,      1789
+Winter    ,YARD                                                        ,        27
+Winter    ,YMCA                                                        ,         1

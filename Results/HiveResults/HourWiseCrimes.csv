@@ -1,0 +1,794 @@
+              1,ARSON                                                                                               ,       860
+              1,ASSAULT                                                                                             ,     10505
+              1,BATTERY                                                                                             ,     56220
+              1,BURGLARY                                                                                            ,      8372
+              1,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        32
+              1,CRIM SEXUAL ASSAULT                                                                                 ,      1536
+              1,CRIMINAL DAMAGE                                                                                     ,     31139
+              1,CRIMINAL SEXUAL ASSAULT                                                                             ,        28
+              1,CRIMINAL TRESPASS                                                                                   ,      4819
+              1,DECEPTIVE PRACTICE                                                                                  ,      3609
+              1,GAMBLING                                                                                            ,       161
+              1,HOMICIDE                                                                                            ,       628
+              1,HUMAN TRAFFICKING                                                                                   ,         1
+              1,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       806
+              1,INTIMIDATION                                                                                        ,        54
+              1,KIDNAPPING                                                                                          ,        90
+              1,LIQUOR LAW VIOLATION                                                                                ,       659
+              1,MOTOR VEHICLE THEFT                                                                                 ,     10015
+              1,NARCOTICS                                                                                           ,     13356
+              1,NON-CRIMINAL                                                                                        ,         1
+              1,NON-CRIMINAL (SUBJECT SPECIFIED)                                                                    ,         1
+              1,OBSCENITY                                                                                           ,        11
+              1,OFFENSE INVOLVING CHILDREN                                                                          ,       663
+              1,OTHER NARCOTIC VIOLATION                                                                            ,         7
+              1,OTHER OFFENSE                                                                                       ,      9966
+              1,PROSTITUTION                                                                                        ,      1938
+              1,PUBLIC INDECENCY                                                                                    ,        13
+              1,PUBLIC PEACE VIOLATION                                                                              ,      1342
+              1,ROBBERY                                                                                             ,     11674
+              1,SEX OFFENSE                                                                                         ,       659
+              1,STALKING                                                                                            ,        90
+              1,THEFT                                                                                               ,     30993
+              1,WEAPONS VIOLATION                                                                                   ,      3278
+              2,ARSON                                                                                               ,       830
+              2,ASSAULT                                                                                             ,      8636
+              2,BATTERY                                                                                             ,     50396
+              2,BURGLARY                                                                                            ,      7798
+              2,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        27
+              2,CRIM SEXUAL ASSAULT                                                                                 ,      1635
+              2,CRIMINAL DAMAGE                                                                                     ,     26907
+              2,CRIMINAL SEXUAL ASSAULT                                                                             ,        29
+              2,CRIMINAL TRESPASS                                                                                   ,      3949
+              2,DECEPTIVE PRACTICE                                                                                  ,      3273
+              2,GAMBLING                                                                                            ,        85
+              2,HOMICIDE                                                                                            ,       588
+              2,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       633
+              2,INTIMIDATION                                                                                        ,        50
+              2,KIDNAPPING                                                                                          ,        72
+              2,LIQUOR LAW VIOLATION                                                                                ,       512
+              2,MOTOR VEHICLE THEFT                                                                                 ,      8163
+              2,NARCOTICS                                                                                           ,      8365
+              2,NON-CRIMINAL                                                                                        ,         2
+              2,OBSCENITY                                                                                           ,         6
+              2,OFFENSE INVOLVING CHILDREN                                                                          ,       431
+              2,OTHER NARCOTIC VIOLATION                                                                            ,         1
+              2,OTHER OFFENSE                                                                                       ,      8032
+              2,PROSTITUTION                                                                                        ,      1571
+              2,PUBLIC INDECENCY                                                                                    ,         3
+              2,PUBLIC PEACE VIOLATION                                                                              ,      1071
+              2,ROBBERY                                                                                             ,     10527
+              2,SEX OFFENSE                                                                                         ,       557
+              2,STALKING                                                                                            ,        54
+              2,THEFT                                                                                               ,     24907
+              2,WEAPONS VIOLATION                                                                                   ,      2260
+              3,ARSON                                                                                               ,       778
+              3,ASSAULT                                                                                             ,      6400
+              3,BATTERY                                                                                             ,     40957
+              3,BURGLARY                                                                                            ,      7447
+              3,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        19
+              3,CRIM SEXUAL ASSAULT                                                                                 ,      1542
+              3,CRIMINAL DAMAGE                                                                                     ,     22452
+              3,CRIMINAL SEXUAL ASSAULT                                                                             ,        34
+              3,CRIMINAL TRESPASS                                                                                   ,      3119
+              3,DECEPTIVE PRACTICE                                                                                  ,      2850
+              3,GAMBLING                                                                                            ,        45
+              3,HOMICIDE                                                                                            ,       465
+              3,HUMAN TRAFFICKING                                                                                   ,         1
+              3,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       387
+              3,INTIMIDATION                                                                                        ,        24
+              3,KIDNAPPING                                                                                          ,        60
+              3,LIQUOR LAW VIOLATION                                                                                ,       310
+              3,MOTOR VEHICLE THEFT                                                                                 ,      6489
+              3,NARCOTICS                                                                                           ,      5490
+              3,NON-CRIMINAL                                                                                        ,         2
+              3,OBSCENITY                                                                                           ,        11
+              3,OFFENSE INVOLVING CHILDREN                                                                          ,       368
+              3,OTHER NARCOTIC VIOLATION                                                                            ,         1
+              3,OTHER OFFENSE                                                                                       ,      6052
+              3,PROSTITUTION                                                                                        ,      1165
+              3,PUBLIC PEACE VIOLATION                                                                              ,       698
+              3,ROBBERY                                                                                             ,      9035
+              3,SEX OFFENSE                                                                                         ,       589
+              3,STALKING                                                                                            ,        48
+              3,THEFT                                                                                               ,     20116
+              3,WEAPONS VIOLATION                                                                                   ,      1544
+              4,ARSON                                                                                               ,       717
+              4,ASSAULT                                                                                             ,      4697
+              4,BATTERY                                                                                             ,     28774
+              4,BURGLARY                                                                                            ,      7162
+              4,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        11
+              4,CRIM SEXUAL ASSAULT                                                                                 ,      1257
+              4,CRIMINAL DAMAGE                                                                                     ,     17503
+              4,CRIMINAL SEXUAL ASSAULT                                                                             ,        22
+              4,CRIMINAL TRESPASS                                                                                   ,      2506
+              4,DECEPTIVE PRACTICE                                                                                  ,      2138
+              4,GAMBLING                                                                                            ,        26
+              4,HOMICIDE                                                                                            ,       393
+              4,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       266
+              4,INTIMIDATION                                                                                        ,        31
+              4,KIDNAPPING                                                                                          ,        56
+              4,LIQUOR LAW VIOLATION                                                                                ,       142
+              4,MOTOR VEHICLE THEFT                                                                                 ,      5336
+              4,NARCOTICS                                                                                           ,      3377
+              4,NON-CRIMINAL                                                                                        ,         1
+              4,OBSCENITY                                                                                           ,         6
+              4,OFFENSE INVOLVING CHILDREN                                                                          ,       248
+              4,OTHER NARCOTIC VIOLATION                                                                            ,         1
+              4,OTHER OFFENSE                                                                                       ,      4567
+              4,PROSTITUTION                                                                                        ,       667
+              4,PUBLIC INDECENCY                                                                                    ,         3
+              4,PUBLIC PEACE VIOLATION                                                                              ,       471
+              4,ROBBERY                                                                                             ,      7341
+              4,SEX OFFENSE                                                                                         ,       444
+              4,STALKING                                                                                            ,        45
+              4,THEFT                                                                                               ,     15223
+              4,WEAPONS VIOLATION                                                                                   ,      1012
+              5,ARSON                                                                                               ,       549
+              5,ASSAULT                                                                                             ,      3872
+              5,BATTERY                                                                                             ,     19721
+              5,BURGLARY                                                                                            ,      8374
+              5,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        20
+              5,CRIM SEXUAL ASSAULT                                                                                 ,       884
+              5,CRIMINAL DAMAGE                                                                                     ,     14134
+              5,CRIMINAL SEXUAL ASSAULT                                                                             ,        19
+              5,CRIMINAL TRESPASS                                                                                   ,      2211
+              5,DECEPTIVE PRACTICE                                                                                  ,      1673
+              5,GAMBLING                                                                                            ,        12
+              5,HOMICIDE                                                                                            ,       325
+              5,HUMAN TRAFFICKING                                                                                   ,         1
+              5,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,        96
+              5,INTIMIDATION                                                                                        ,        22
+              5,KIDNAPPING                                                                                          ,        39
+              5,LIQUOR LAW VIOLATION                                                                                ,        44
+              5,MOTOR VEHICLE THEFT                                                                                 ,      5914
+              5,NARCOTICS                                                                                           ,      1620
+              5,OBSCENITY                                                                                           ,         7
+              5,OFFENSE INVOLVING CHILDREN                                                                          ,       299
+              5,OTHER OFFENSE                                                                                       ,      4357
+              5,PROSTITUTION                                                                                        ,      1256
+              5,PUBLIC INDECENCY                                                                                    ,         1
+              5,PUBLIC PEACE VIOLATION                                                                              ,       299
+              5,RITUALISM                                                                                           ,         1
+              5,ROBBERY                                                                                             ,      5606
+              5,SEX OFFENSE                                                                                         ,       356
+              5,STALKING                                                                                            ,        45
+              5,THEFT                                                                                               ,     14958
+              5,WEAPONS VIOLATION                                                                                   ,       502
+              6,ARSON                                                                                               ,       360
+              6,ASSAULT                                                                                             ,      4561
+              6,BATTERY                                                                                             ,     16831
+              6,BURGLARY                                                                                            ,     12096
+              6,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        18
+              6,CRIM SEXUAL ASSAULT                                                                                 ,       667
+              6,CRIMINAL DAMAGE                                                                                     ,     14614
+              6,CRIMINAL SEXUAL ASSAULT                                                                             ,         8
+              6,CRIMINAL TRESPASS                                                                                   ,      2548
+              6,DECEPTIVE PRACTICE                                                                                  ,      2144
+              6,GAMBLING                                                                                            ,        26
+              6,HOMICIDE                                                                                            ,       282
+              6,HUMAN TRAFFICKING                                                                                   ,         1
+              6,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,        89
+              6,INTIMIDATION                                                                                        ,        34
+              6,KIDNAPPING                                                                                          ,        93
+              6,LIQUOR LAW VIOLATION                                                                                ,        35
+              6,MOTOR VEHICLE THEFT                                                                                 ,      7998
+              6,NARCOTICS                                                                                           ,      3551
+              6,NON-CRIMINAL                                                                                        ,         4
+              6,OBSCENITY                                                                                           ,        14
+              6,OFFENSE INVOLVING CHILDREN                                                                          ,       475
+              6,OTHER OFFENSE                                                                                       ,      6191
+              6,PROSTITUTION                                                                                        ,      3283
+              6,PUBLIC INDECENCY                                                                                    ,         2
+              6,PUBLIC PEACE VIOLATION                                                                              ,       326
+              6,ROBBERY                                                                                             ,      4500
+              6,SEX OFFENSE                                                                                         ,       425
+              6,STALKING                                                                                            ,        77
+              6,THEFT                                                                                               ,     21118
+              6,WEAPONS VIOLATION                                                                                   ,       632
+              7,ARSON                                                                                               ,       248
+              7,ASSAULT                                                                                             ,      7784
+              7,BATTERY                                                                                             ,     21129
+              7,BURGLARY                                                                                            ,     19684
+              7,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        28
+              7,CRIM SEXUAL ASSAULT                                                                                 ,       570
+              7,CRIMINAL DAMAGE                                                                                     ,     19082
+              7,CRIMINAL SEXUAL ASSAULT                                                                             ,        13
+              7,CRIMINAL TRESPASS                                                                                   ,      4294
+              7,DECEPTIVE PRACTICE                                                                                  ,      3830
+              7,GAMBLING                                                                                            ,        46
+              7,HOMICIDE                                                                                            ,       207
+              7,HUMAN TRAFFICKING                                                                                   ,         1
+              7,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       126
+              7,INTIMIDATION                                                                                        ,        82
+              7,KIDNAPPING                                                                                          ,       274
+              7,LIQUOR LAW VIOLATION                                                                                ,        26
+              7,MOTOR VEHICLE THEFT                                                                                 ,     10205
+              7,NARCOTICS                                                                                           ,      4539
+              7,NON - CRIMINAL                                                                                      ,         4
+              7,NON-CRIMINAL                                                                                        ,         5
+              7,OBSCENITY                                                                                           ,        11
+              7,OFFENSE INVOLVING CHILDREN                                                                          ,      1072
+              7,OTHER NARCOTIC VIOLATION                                                                            ,         1
+              7,OTHER OFFENSE                                                                                       ,     10056
+              7,PROSTITUTION                                                                                        ,      4107
+              7,PUBLIC INDECENCY                                                                                    ,         9
+              7,PUBLIC PEACE VIOLATION                                                                              ,       511
+              7,ROBBERY                                                                                             ,      4323
+              7,SEX OFFENSE                                                                                         ,       768
+              7,STALKING                                                                                            ,       142
+              7,THEFT                                                                                               ,     33837
+              7,WEAPONS VIOLATION                                                                                   ,       750
+              8,ARSON                                                                                               ,       224
+              8,ASSAULT                                                                                             ,     14245
+              8,BATTERY                                                                                             ,     31661
+              8,BURGLARY                                                                                            ,     24637
+              8,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        13
+              8,CRIM SEXUAL ASSAULT                                                                                 ,       609
+              8,CRIMINAL DAMAGE                                                                                     ,     24063
+              8,CRIMINAL SEXUAL ASSAULT                                                                             ,        15
+              8,CRIMINAL TRESPASS                                                                                   ,      6284
+              8,DECEPTIVE PRACTICE                                                                                  ,     11198
+              8,GAMBLING                                                                                            ,        80
+              8,HOMICIDE                                                                                            ,       210
+              8,HUMAN TRAFFICKING                                                                                   ,         2
+              8,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       208
+              8,INTIMIDATION                                                                                        ,       155
+              8,KIDNAPPING                                                                                          ,       469
+              8,LIQUOR LAW VIOLATION                                                                                ,        66
+              8,MOTOR VEHICLE THEFT                                                                                 ,     11632
+              8,NARCOTICS                                                                                           ,      9686
+              8,NON - CRIMINAL                                                                                      ,         1
+              8,NON-CRIMINAL                                                                                        ,         9
+              8,OBSCENITY                                                                                           ,        36
+              8,OFFENSE INVOLVING CHILDREN                                                                          ,      1887
+              8,OTHER NARCOTIC VIOLATION                                                                            ,         1
+              8,OTHER OFFENSE                                                                                       ,     16902
+              8,PROSTITUTION                                                                                        ,      3482
+              8,PUBLIC INDECENCY                                                                                    ,         6
+              8,PUBLIC PEACE VIOLATION                                                                              ,       989
+              8,ROBBERY                                                                                             ,      4979
+              8,SEX OFFENSE                                                                                         ,      1134
+              8,STALKING                                                                                            ,       181
+              8,THEFT                                                                                               ,     51379
+              8,WEAPONS VIOLATION                                                                                   ,      1681
+              9,ARSON                                                                                               ,       214
+              9,ASSAULT                                                                                             ,     17563
+              9,BATTERY                                                                                             ,     37128
+              9,BURGLARY                                                                                            ,     22073
+              9,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        17
+              9,CRIM SEXUAL ASSAULT                                                                                 ,       637
+              9,CRIMINAL DAMAGE                                                                                     ,     24960
+              9,CRIMINAL SEXUAL ASSAULT                                                                             ,        18
+              9,CRIMINAL TRESPASS                                                                                   ,      7288
+              9,DECEPTIVE PRACTICE                                                                                  ,     28009
+              9,GAMBLING                                                                                            ,       114
+              9,HOMICIDE                                                                                            ,       263
+              9,HUMAN TRAFFICKING                                                                                   ,         6
+              9,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       363
+              9,INTIMIDATION                                                                                        ,       251
+              9,KIDNAPPING                                                                                          ,       337
+              9,LIQUOR LAW VIOLATION                                                                                ,       100
+              9,MOTOR VEHICLE THEFT                                                                                 ,     12053
+              9,NARCOTICS                                                                                           ,     14864
+              9,NON - CRIMINAL                                                                                      ,         5
+              9,NON-CRIMINAL                                                                                        ,        14
+              9,OBSCENITY                                                                                           ,        36
+              9,OFFENSE INVOLVING CHILDREN                                                                          ,      2239
+              9,OTHER NARCOTIC VIOLATION                                                                            ,         6
+              9,OTHER OFFENSE                                                                                       ,     25247
+              9,PROSTITUTION                                                                                        ,      1795
+              9,PUBLIC INDECENCY                                                                                    ,        11
+              9,PUBLIC PEACE VIOLATION                                                                              ,      1352
+              9,ROBBERY                                                                                             ,      5783
+              9,SEX OFFENSE                                                                                         ,      1046
+              9,STALKING                                                                                            ,       187
+              9,THEFT                                                                                               ,     70487
+              9,WEAPONS VIOLATION                                                                                   ,      1888
+             10,ARSON                                                                                               ,       212
+             10,ASSAULT                                                                                             ,     19725
+             10,BATTERY                                                                                             ,     41968
+             10,BURGLARY                                                                                            ,     19896
+             10,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        13
+             10,CRIM SEXUAL ASSAULT                                                                                 ,       548
+             10,CRIMINAL DAMAGE                                                                                     ,     23093
+             10,CRIMINAL SEXUAL ASSAULT                                                                             ,        10
+             10,CRIMINAL TRESPASS                                                                                   ,      8315
+             10,DECEPTIVE PRACTICE                                                                                  ,     16105
+             10,GAMBLING                                                                                            ,       330
+             10,HOMICIDE                                                                                            ,       242
+             10,HUMAN TRAFFICKING                                                                                   ,         2
+             10,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       565
+             10,INTIMIDATION                                                                                        ,       262
+             10,KIDNAPPING                                                                                          ,       293
+             10,LIQUOR LAW VIOLATION                                                                                ,       146
+             10,MOTOR VEHICLE THEFT                                                                                 ,      9935
+             10,NARCOTICS                                                                                           ,     27900
+             10,NON - CRIMINAL                                                                                      ,         9
+             10,NON-CRIMINAL                                                                                        ,         8
+             10,OBSCENITY                                                                                           ,        27
+             10,OFFENSE INVOLVING CHILDREN                                                                          ,      2165
+             10,OTHER NARCOTIC VIOLATION                                                                            ,         9
+             10,OTHER OFFENSE                                                                                       ,     22681
+             10,PROSTITUTION                                                                                        ,      1328
+             10,PUBLIC INDECENCY                                                                                    ,         9
+             10,PUBLIC PEACE VIOLATION                                                                              ,      1847
+             10,ROBBERY                                                                                             ,      6903
+             10,SEX OFFENSE                                                                                         ,       910
+             10,STALKING                                                                                            ,       165
+             10,THEFT                                                                                               ,     63090
+             10,WEAPONS VIOLATION                                                                                   ,      2227
+             11,ARSON                                                                                               ,       243
+             11,ASSAULT                                                                                             ,     21381
+             11,BATTERY                                                                                             ,     47395
+             11,BURGLARY                                                                                            ,     18207
+             11,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        16
+             11,CRIM SEXUAL ASSAULT                                                                                 ,       523
+             11,CRIMINAL DAMAGE                                                                                     ,     21578
+             11,CRIMINAL SEXUAL ASSAULT                                                                             ,        10
+             11,CRIMINAL TRESPASS                                                                                   ,      9917
+             11,DECEPTIVE PRACTICE                                                                                  ,     12012
+             11,GAMBLING                                                                                            ,       554
+             11,HOMICIDE                                                                                            ,       265
+             11,HUMAN TRAFFICKING                                                                                   ,         2
+             11,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       740
+             11,INTIMIDATION                                                                                        ,       250
+             11,KIDNAPPING                                                                                          ,       196
+             11,LIQUOR LAW VIOLATION                                                                                ,       263
+             11,MOTOR VEHICLE THEFT                                                                                 ,      8412
+             11,NARCOTICS                                                                                           ,     42806
+             11,NON - CRIMINAL                                                                                      ,         1
+             11,NON-CRIMINAL                                                                                        ,        10
+             11,NON-CRIMINAL (SUBJECT SPECIFIED)                                                                    ,         1
+             11,OBSCENITY                                                                                           ,        25
+             11,OFFENSE INVOLVING CHILDREN                                                                          ,      1528
+             11,OTHER NARCOTIC VIOLATION                                                                            ,         7
+             11,OTHER OFFENSE                                                                                       ,     20334
+             11,PROSTITUTION                                                                                        ,      1290
+             11,PUBLIC INDECENCY                                                                                    ,        10
+             11,PUBLIC PEACE VIOLATION                                                                              ,      2306
+             11,ROBBERY                                                                                             ,      8121
+             11,SEX OFFENSE                                                                                         ,       923
+             11,STALKING                                                                                            ,       164
+             11,THEFT                                                                                               ,     63169
+             11,WEAPONS VIOLATION                                                                                   ,      2849
+             12,ARSON                                                                                               ,       821
+             12,ASSAULT                                                                                             ,     13041
+             12,BATTERY                                                                                             ,     58289
+             12,BURGLARY                                                                                            ,     16187
+             12,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        24
+             12,CRIM SEXUAL ASSAULT                                                                                 ,      3004
+             12,CRIMINAL DAMAGE                                                                                     ,     53409
+             12,CRIMINAL SEXUAL ASSAULT                                                                             ,        80
+             12,CRIMINAL TRESPASS                                                                                   ,      6356
+             12,DECEPTIVE PRACTICE                                                                                  ,     27502
+             12,GAMBLING                                                                                            ,       321
+             12,HOMICIDE                                                                                            ,       648
+             12,HUMAN TRAFFICKING                                                                                   ,        13
+             12,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       960
+             12,INTIMIDATION                                                                                        ,       114
+             12,KIDNAPPING                                                                                          ,       101
+             12,LIQUOR LAW VIOLATION                                                                                ,       785
+             12,MOTOR VEHICLE THEFT                                                                                 ,     18671
+             12,NARCOTICS                                                                                           ,     22527
+             12,NON - CRIMINAL                                                                                      ,         1
+             12,NON-CRIMINAL                                                                                        ,         6
+             12,OBSCENITY                                                                                           ,        63
+             12,OFFENSE INVOLVING CHILDREN                                                                          ,      5728
+             12,OTHER NARCOTIC VIOLATION                                                                            ,         3
+             12,OTHER OFFENSE                                                                                       ,     22580
+             12,PROSTITUTION                                                                                        ,      2650
+             12,PUBLIC INDECENCY                                                                                    ,         3
+             12,PUBLIC PEACE VIOLATION                                                                              ,      1710
+             12,RITUALISM                                                                                           ,         1
+             12,ROBBERY                                                                                             ,     12313
+             12,SEX OFFENSE                                                                                         ,      2086
+             12,STALKING                                                                                            ,       205
+             12,THEFT                                                                                               ,     75265
+             12,WEAPONS VIOLATION                                                                                   ,      4861
+             13,ARSON                                                                                               ,       211
+             13,ASSAULT                                                                                             ,     22689
+             13,BATTERY                                                                                             ,     50982
+             13,BURGLARY                                                                                            ,     17438
+             13,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        21
+             13,CRIM SEXUAL ASSAULT                                                                                 ,       596
+             13,CRIMINAL DAMAGE                                                                                     ,     23163
+             13,CRIMINAL SEXUAL ASSAULT                                                                             ,         8
+             13,CRIMINAL TRESPASS                                                                                   ,      9782
+             13,DECEPTIVE PRACTICE                                                                                  ,     14216
+             13,GAMBLING                                                                                            ,       812
+             13,HOMICIDE                                                                                            ,       308
+             13,HUMAN TRAFFICKING                                                                                   ,         6
+             13,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       627
+             13,INTIMIDATION                                                                                        ,       235
+             13,KIDNAPPING                                                                                          ,       219
+             13,LIQUOR LAW VIOLATION                                                                                ,       313
+             13,MOTOR VEHICLE THEFT                                                                                 ,      8740
+             13,NARCOTICS                                                                                           ,     42022
+             13,NON - CRIMINAL                                                                                      ,         2
+             13,NON-CRIMINAL                                                                                        ,         4
+             13,NON-CRIMINAL (SUBJECT SPECIFIED)                                                                    ,         1
+             13,OBSCENITY                                                                                           ,        36
+             13,OFFENSE INVOLVING CHILDREN                                                                          ,      1591
+             13,OTHER NARCOTIC VIOLATION                                                                            ,        14
+             13,OTHER OFFENSE                                                                                       ,     18640
+             13,PROSTITUTION                                                                                        ,      1028
+             13,PUBLIC INDECENCY                                                                                    ,         6
+             13,PUBLIC PEACE VIOLATION                                                                              ,      2576
+             13,RITUALISM                                                                                           ,         1
+             13,ROBBERY                                                                                             ,      9305
+             13,SEX OFFENSE                                                                                         ,      1103
+             13,STALKING                                                                                            ,       154
+             13,THEFT                                                                                               ,     76244
+             13,WEAPONS VIOLATION                                                                                   ,      2906
+             14,ARSON                                                                                               ,       223
+             14,ASSAULT                                                                                             ,     25489
+             14,BATTERY                                                                                             ,     58892
+             14,BURGLARY                                                                                            ,     17916
+             14,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        14
+             14,CRIM SEXUAL ASSAULT                                                                                 ,       708
+             14,CRIMINAL DAMAGE                                                                                     ,     26461
+             14,CRIMINAL SEXUAL ASSAULT                                                                             ,        11
+             14,CRIMINAL TRESPASS                                                                                   ,     10115
+             14,DECEPTIVE PRACTICE                                                                                  ,     14547
+             14,GAMBLING                                                                                            ,       920
+             14,HOMICIDE                                                                                            ,       362
+             14,HUMAN TRAFFICKING                                                                                   ,         3
+             14,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       602
+             14,INTIMIDATION                                                                                        ,       261
+             14,KIDNAPPING                                                                                          ,       363
+             14,LIQUOR LAW VIOLATION                                                                                ,       265
+             14,MOTOR VEHICLE THEFT                                                                                 ,      9782
+             14,NARCOTICS                                                                                           ,     38849
+             14,NON - CRIMINAL                                                                                      ,         1
+             14,NON-CRIMINAL                                                                                        ,        10
+             14,OBSCENITY                                                                                           ,        33
+             14,OFFENSE INVOLVING CHILDREN                                                                          ,      2009
+             14,OTHER NARCOTIC VIOLATION                                                                            ,         6
+             14,OTHER OFFENSE                                                                                       ,     19038
+             14,PROSTITUTION                                                                                        ,       991
+             14,PUBLIC INDECENCY                                                                                    ,         7
+             14,PUBLIC PEACE VIOLATION                                                                              ,      2578
+             14,RITUALISM                                                                                           ,         3
+             14,ROBBERY                                                                                             ,     10335
+             14,SEX OFFENSE                                                                                         ,      1199
+             14,STALKING                                                                                            ,       166
+             14,THEFT                                                                                               ,     80702
+             14,WEAPONS VIOLATION                                                                                   ,      2936
+             15,ARSON                                                                                               ,       221
+             15,ASSAULT                                                                                             ,     27171
+             15,BATTERY                                                                                             ,     64474
+             15,BURGLARY                                                                                            ,     18056
+             15,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        10
+             15,CRIM SEXUAL ASSAULT                                                                                 ,       901
+             15,CRIMINAL DAMAGE                                                                                     ,     30603
+             15,CRIMINAL SEXUAL ASSAULT                                                                             ,        16
+             15,CRIMINAL TRESPASS                                                                                   ,      9786
+             15,DECEPTIVE PRACTICE                                                                                  ,     15022
+             15,GAMBLING                                                                                            ,       751
+             15,HOMICIDE                                                                                            ,       351
+             15,HUMAN TRAFFICKING                                                                                   ,         3
+             15,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       748
+             15,INTIMIDATION                                                                                        ,       258
+             15,KIDNAPPING                                                                                          ,       505
+             15,LIQUOR LAW VIOLATION                                                                                ,       245
+             15,MOTOR VEHICLE THEFT                                                                                 ,     11395
+             15,NARCOTICS                                                                                           ,     33297
+             15,NON - CRIMINAL                                                                                      ,         5
+             15,NON-CRIMINAL                                                                                        ,         7
+             15,OBSCENITY                                                                                           ,        45
+             15,OFFENSE INVOLVING CHILDREN                                                                          ,      2784
+             15,OTHER NARCOTIC VIOLATION                                                                            ,         3
+             15,OTHER OFFENSE                                                                                       ,     20563
+             15,PROSTITUTION                                                                                        ,       702
+             15,PUBLIC INDECENCY                                                                                    ,         6
+             15,PUBLIC PEACE VIOLATION                                                                              ,      3151
+             15,RITUALISM                                                                                           ,         1
+             15,ROBBERY                                                                                             ,     11985
+             15,SEX OFFENSE                                                                                         ,      1406
+             15,STALKING                                                                                            ,       217
+             15,THEFT                                                                                               ,     85416
+             15,WEAPONS VIOLATION                                                                                   ,      2977
+             16,ARSON                                                                                               ,       245
+             16,ASSAULT                                                                                             ,     24645
+             16,BATTERY                                                                                             ,     58690
+             16,BURGLARY                                                                                            ,     17102
+             16,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        20
+             16,CRIM SEXUAL ASSAULT                                                                                 ,       887
+             16,CRIMINAL DAMAGE                                                                                     ,     32601
+             16,CRIMINAL SEXUAL ASSAULT                                                                             ,        18
+             16,CRIMINAL TRESPASS                                                                                   ,      9584
+             16,DECEPTIVE PRACTICE                                                                                  ,     13315
+             16,GAMBLING                                                                                            ,       720
+             16,HOMICIDE                                                                                            ,       421
+             16,HUMAN TRAFFICKING                                                                                   ,         4
+             16,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       775
+             16,INTIMIDATION                                                                                        ,       223
+             16,KIDNAPPING                                                                                          ,       422
+             16,LIQUOR LAW VIOLATION                                                                                ,       365
+             16,MOTOR VEHICLE THEFT                                                                                 ,     12010
+             16,NARCOTICS                                                                                           ,     28989
+             16,NON - CRIMINAL                                                                                      ,         1
+             16,NON-CRIMINAL                                                                                        ,        11
+             16,OBSCENITY                                                                                           ,        29
+             16,OFFENSE INVOLVING CHILDREN                                                                          ,      2741
+             16,OTHER NARCOTIC VIOLATION                                                                            ,         7
+             16,OTHER OFFENSE                                                                                       ,     19681
+             16,PROSTITUTION                                                                                        ,       680
+             16,PUBLIC INDECENCY                                                                                    ,        14
+             16,PUBLIC PEACE VIOLATION                                                                              ,      2466
+             16,RITUALISM                                                                                           ,         2
+             16,ROBBERY                                                                                             ,     12272
+             16,SEX OFFENSE                                                                                         ,      1297
+             16,STALKING                                                                                            ,       188
+             16,THEFT                                                                                               ,     81093
+             16,WEAPONS VIOLATION                                                                                   ,      2714
+             17,ARSON                                                                                               ,       262
+             17,ASSAULT                                                                                             ,     23893
+             17,BATTERY                                                                                             ,     57881
+             17,BURGLARY                                                                                            ,     17980
+             17,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        21
+             17,CRIM SEXUAL ASSAULT                                                                                 ,       867
+             17,CRIMINAL DAMAGE                                                                                     ,     37435
+             17,CRIMINAL SEXUAL ASSAULT                                                                             ,        28
+             17,CRIMINAL TRESPASS                                                                                   ,      9610
+             17,DECEPTIVE PRACTICE                                                                                  ,     12701
+             17,GAMBLING                                                                                            ,       769
+             17,HOMICIDE                                                                                            ,       426
+             17,HUMAN TRAFFICKING                                                                                   ,         1
+             17,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       939
+             17,INTIMIDATION                                                                                        ,       211
+             17,KIDNAPPING                                                                                          ,       419
+             17,LIQUOR LAW VIOLATION                                                                                ,       588
+             17,MOTOR VEHICLE THEFT                                                                                 ,     13576
+             17,NARCOTICS                                                                                           ,     25835
+             17,NON - CRIMINAL                                                                                      ,         1
+             17,NON-CRIMINAL                                                                                        ,        11
+             17,NON-CRIMINAL (SUBJECT SPECIFIED)                                                                    ,         2
+             17,OBSCENITY                                                                                           ,        25
+             17,OFFENSE INVOLVING CHILDREN                                                                          ,      2935
+             17,OTHER NARCOTIC VIOLATION                                                                            ,         8
+             17,OTHER OFFENSE                                                                                       ,     20137
+             17,PROSTITUTION                                                                                        ,       872
+             17,PUBLIC INDECENCY                                                                                    ,        10
+             17,PUBLIC PEACE VIOLATION                                                                              ,      2239
+             17,RITUALISM                                                                                           ,         1
+             17,ROBBERY                                                                                             ,     12436
+             17,SEX OFFENSE                                                                                         ,      1150
+             17,STALKING                                                                                            ,       162
+             17,THEFT                                                                                               ,     82910
+             17,WEAPONS VIOLATION                                                                                   ,      2652
+             18,ARSON                                                                                               ,       299
+             18,ASSAULT                                                                                             ,     23825
+             18,BATTERY                                                                                             ,     60595
+             18,BURGLARY                                                                                            ,     17815
+             18,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        37
+             18,CRIM SEXUAL ASSAULT                                                                                 ,       901
+             18,CRIMINAL DAMAGE                                                                                     ,     41774
+             18,CRIMINAL SEXUAL ASSAULT                                                                             ,        21
+             18,CRIMINAL TRESPASS                                                                                   ,     10849
+             18,DECEPTIVE PRACTICE                                                                                  ,     10691
+             18,GAMBLING                                                                                            ,      1259
+             18,HOMICIDE                                                                                            ,       462
+             18,HUMAN TRAFFICKING                                                                                   ,         2
+             18,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,      1030
+             18,INTIMIDATION                                                                                        ,       195
+             18,KIDNAPPING                                                                                          ,       416
+             18,LIQUOR LAW VIOLATION                                                                                ,      1075
+             18,MOTOR VEHICLE THEFT                                                                                 ,     16269
+             18,NARCOTICS                                                                                           ,     35373
+             18,NON - CRIMINAL                                                                                      ,         2
+             18,NON-CRIMINAL                                                                                        ,         6
+             18,NON-CRIMINAL (SUBJECT SPECIFIED)                                                                    ,         1
+             18,OBSCENITY                                                                                           ,        26
+             18,OFFENSE INVOLVING CHILDREN                                                                          ,      3243
+             18,OTHER NARCOTIC VIOLATION                                                                            ,         9
+             18,OTHER OFFENSE                                                                                       ,     21099
+             18,PROSTITUTION                                                                                        ,      1728
+             18,PUBLIC INDECENCY                                                                                    ,         8
+             18,PUBLIC PEACE VIOLATION                                                                              ,      2767
+             18,RITUALISM                                                                                           ,         2
+             18,ROBBERY                                                                                             ,     13443
+             18,SEX OFFENSE                                                                                         ,      1106
+             18,STALKING                                                                                            ,       169
+             18,THEFT                                                                                               ,     82054
+             18,WEAPONS VIOLATION                                                                                   ,      3890
+             19,ARSON                                                                                               ,       363
+             19,ASSAULT                                                                                             ,     23161
+             19,BATTERY                                                                                             ,     62508
+             19,BURGLARY                                                                                            ,     15238
+             19,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        36
+             19,CRIM SEXUAL ASSAULT                                                                                 ,       936
+             19,CRIMINAL DAMAGE                                                                                     ,     41412
+             19,CRIMINAL SEXUAL ASSAULT                                                                             ,        17
+             19,CRIMINAL TRESPASS                                                                                   ,     12410
+             19,DECEPTIVE PRACTICE                                                                                  ,      9492
+             19,GAMBLING                                                                                            ,      1720
+             19,HOMICIDE                                                                                            ,       412
+             19,HUMAN TRAFFICKING                                                                                   ,         3
+             19,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,      1264
+             19,INTIMIDATION                                                                                        ,       184
+             19,KIDNAPPING                                                                                          ,       326
+             19,LIQUOR LAW VIOLATION                                                                                ,      1449
+             19,MOTOR VEHICLE THEFT                                                                                 ,     16364
+             19,NARCOTICS                                                                                           ,     54811
+             19,NON - CRIMINAL                                                                                      ,         1
+             19,NON-CRIMINAL                                                                                        ,         7
+             19,OBSCENITY                                                                                           ,        22
+             19,OFFENSE INVOLVING CHILDREN                                                                          ,      2437
+             19,OTHER NARCOTIC VIOLATION                                                                            ,         7
+             19,OTHER OFFENSE                                                                                       ,     21397
+             19,PROSTITUTION                                                                                        ,      3794
+             19,PUBLIC INDECENCY                                                                                    ,         8
+             19,PUBLIC PEACE VIOLATION                                                                              ,      3306
+             19,ROBBERY                                                                                             ,     14075
+             19,SEX OFFENSE                                                                                         ,      1071
+             19,STALKING                                                                                            ,       130
+             19,THEFT                                                                                               ,     72118
+             19,WEAPONS VIOLATION                                                                                   ,      5362
+             20,ARSON                                                                                               ,       404
+             20,ASSAULT                                                                                             ,     22737
+             20,BATTERY                                                                                             ,     64375
+             20,BURGLARY                                                                                            ,     13901
+             20,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        30
+             20,CRIM SEXUAL ASSAULT                                                                                 ,      1143
+             20,CRIMINAL DAMAGE                                                                                     ,     43774
+             20,CRIMINAL SEXUAL ASSAULT                                                                             ,        19
+             20,CRIMINAL TRESPASS                                                                                   ,     12028
+             20,DECEPTIVE PRACTICE                                                                                  ,      7739
+             20,GAMBLING                                                                                            ,      1441
+             20,HOMICIDE                                                                                            ,       505
+             20,HUMAN TRAFFICKING                                                                                   ,         1
+             20,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,      1229
+             20,INTIMIDATION                                                                                        ,       174
+             20,KIDNAPPING                                                                                          ,       233
+             20,LIQUOR LAW VIOLATION                                                                                ,      1248
+             20,MOTOR VEHICLE THEFT                                                                                 ,     18205
+             20,NARCOTICS                                                                                           ,     54644
+             20,NON - CRIMINAL                                                                                      ,         2
+             20,NON-CRIMINAL                                                                                        ,         5
+             20,NON-CRIMINAL (SUBJECT SPECIFIED)                                                                    ,         1
+             20,OBSCENITY                                                                                           ,        33
+             20,OFFENSE INVOLVING CHILDREN                                                                          ,      2175
+             20,OTHER NARCOTIC VIOLATION                                                                            ,        10
+             20,OTHER OFFENSE                                                                                       ,     20826
+             20,PROSTITUTION                                                                                        ,      7561
+             20,PUBLIC INDECENCY                                                                                    ,         3
+             20,PUBLIC PEACE VIOLATION                                                                              ,      3349
+             20,ROBBERY                                                                                             ,     14647
+             20,SEX OFFENSE                                                                                         ,      1025
+             20,STALKING                                                                                            ,       149
+             20,THEFT                                                                                               ,     64289
+             20,WEAPONS VIOLATION                                                                                   ,      5665
+             21,ARSON                                                                                               ,       511
+             21,ASSAULT                                                                                             ,     21058
+             21,BATTERY                                                                                             ,     66368
+             21,BURGLARY                                                                                            ,     13460
+             21,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        30
+             21,CRIM SEXUAL ASSAULT                                                                                 ,      1198
+             21,CRIMINAL DAMAGE                                                                                     ,     46157
+             21,CRIMINAL SEXUAL ASSAULT                                                                             ,        18
+             21,CRIMINAL TRESPASS                                                                                   ,     11349
+             21,DECEPTIVE PRACTICE                                                                                  ,      5539
+             21,GAMBLING                                                                                            ,      1035
+             21,HOMICIDE                                                                                            ,       549
+             21,HUMAN TRAFFICKING                                                                                   ,         2
+             21,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,      1147
+             21,INTIMIDATION                                                                                        ,       167
+             21,KIDNAPPING                                                                                          ,       201
+             21,LIQUOR LAW VIOLATION                                                                                ,      1182
+             21,MOTOR VEHICLE THEFT                                                                                 ,     19293
+             21,NARCOTICS                                                                                           ,     53869
+             21,NON-CRIMINAL                                                                                        ,         6
+             21,NON-CRIMINAL (SUBJECT SPECIFIED)                                                                    ,         1
+             21,OBSCENITY                                                                                           ,        22
+             21,OFFENSE INVOLVING CHILDREN                                                                          ,      1636
+             21,OTHER NARCOTIC VIOLATION                                                                            ,         4
+             21,OTHER OFFENSE                                                                                       ,     19975
+             21,PROSTITUTION                                                                                        ,      6433
+             21,PUBLIC INDECENCY                                                                                    ,         6
+             21,PUBLIC PEACE VIOLATION                                                                              ,      3240
+             21,ROBBERY                                                                                             ,     15405
+             21,SEX OFFENSE                                                                                         ,       972
+             21,STALKING                                                                                            ,       165
+             21,THEFT                                                                                               ,     57035
+             21,WEAPONS VIOLATION                                                                                   ,      6068
+             22,ARSON                                                                                               ,       594
+             22,ASSAULT                                                                                             ,     18673
+             22,BATTERY                                                                                             ,     66906
+             22,BURGLARY                                                                                            ,     14072
+             22,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        45
+             22,CRIM SEXUAL ASSAULT                                                                                 ,      1496
+             22,CRIMINAL DAMAGE                                                                                     ,     49870
+             22,CRIMINAL SEXUAL ASSAULT                                                                             ,        29
+             22,CRIMINAL TRESPASS                                                                                   ,      9484
+             22,DECEPTIVE PRACTICE                                                                                  ,      4627
+             22,GAMBLING                                                                                            ,       810
+             22,HOMICIDE                                                                                            ,       562
+             22,HUMAN TRAFFICKING                                                                                   ,         1
+             22,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,      1211
+             22,INTIMIDATION                                                                                        ,       125
+             22,KIDNAPPING                                                                                          ,       144
+             22,LIQUOR LAW VIOLATION                                                                                ,      1190
+             22,MOTOR VEHICLE THEFT                                                                                 ,     22019
+             22,NARCOTICS                                                                                           ,     48464
+             22,NON - CRIMINAL                                                                                      ,         2
+             22,NON-CRIMINAL                                                                                        ,        10
+             22,OBSCENITY                                                                                           ,        18
+             22,OFFENSE INVOLVING CHILDREN                                                                          ,      1442
+             22,OTHER NARCOTIC VIOLATION                                                                            ,         3
+             22,OTHER OFFENSE                                                                                       ,     18230
+             22,PROSTITUTION                                                                                        ,      6357
+             22,PUBLIC INDECENCY                                                                                    ,         8
+             22,PUBLIC PEACE VIOLATION                                                                              ,      2744
+             22,ROBBERY                                                                                             ,     14937
+             22,SEX OFFENSE                                                                                         ,       883
+             22,STALKING                                                                                            ,       154
+             22,THEFT                                                                                               ,     57614
+             22,WEAPONS VIOLATION                                                                                   ,      6261
+             23,ARSON                                                                                               ,       662
+             23,ASSAULT                                                                                             ,     15936
+             23,BATTERY                                                                                             ,     63243
+             23,BURGLARY                                                                                            ,     10754
+             23,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        31
+             23,CRIM SEXUAL ASSAULT                                                                                 ,      1526
+             23,CRIMINAL DAMAGE                                                                                     ,     39530
+             23,CRIMINAL SEXUAL ASSAULT                                                                             ,        30
+             23,CRIMINAL TRESPASS                                                                                   ,      7668
+             23,DECEPTIVE PRACTICE                                                                                  ,      4015
+             23,GAMBLING                                                                                            ,       532
+             23,HOMICIDE                                                                                            ,       602
+             23,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,      1069
+             23,INTIMIDATION                                                                                        ,       120
+             23,KIDNAPPING                                                                                          ,        91
+             23,LIQUOR LAW VIOLATION                                                                                ,       952
+             23,MOTOR VEHICLE THEFT                                                                                 ,     16635
+             23,NARCOTICS                                                                                           ,     37010
+             23,NON-CRIMINAL                                                                                        ,         4
+             23,NON-CRIMINAL (SUBJECT SPECIFIED)                                                                    ,         1
+             23,OBSCENITY                                                                                           ,        21
+             23,OFFENSE INVOLVING CHILDREN                                                                          ,      1049
+             23,OTHER NARCOTIC VIOLATION                                                                            ,         6
+             23,OTHER OFFENSE                                                                                       ,     14990
+             23,PROSTITUTION                                                                                        ,      4830
+             23,PUBLIC INDECENCY                                                                                    ,         6
+             23,PUBLIC PEACE VIOLATION                                                                              ,      2223
+             23,RITUALISM                                                                                           ,         1
+             23,ROBBERY                                                                                             ,     13831
+             23,SEX OFFENSE                                                                                         ,       756
+             23,STALKING                                                                                            ,       126
+             23,THEFT                                                                                               ,     44691
+             23,WEAPONS VIOLATION                                                                                   ,      5610
+             24,ARSON                                                                                               ,       242
+             24,ASSAULT                                                                                             ,     23499
+             24,BATTERY                                                                                             ,     51453
+             24,BURGLARY                                                                                            ,     21812
+             24,CONCEALED CARRY LICENSE VIOLATION                                                                   ,        24
+             24,CRIM SEXUAL ASSAULT                                                                                 ,       803
+             24,CRIMINAL DAMAGE                                                                                     ,     27307
+             24,CRIMINAL SEXUAL ASSAULT                                                                             ,        32
+             24,CRIMINAL TRESPASS                                                                                   ,     10110
+             24,DECEPTIVE PRACTICE                                                                                  ,     30253
+             24,GAMBLING                                                                                            ,       793
+             24,HOMICIDE                                                                                            ,       311
+             24,HUMAN TRAFFICKING                                                                                   ,         3
+             24,INTERFERENCE WITH PUBLIC OFFICER                                                                    ,       721
+             24,INTIMIDATION                                                                                        ,       278
+             24,KIDNAPPING                                                                                          ,       272
+             24,LIQUOR LAW VIOLATION                                                                                ,       290
+             24,MOTOR VEHICLE THEFT                                                                                 ,     12113
+             24,NARCOTICS                                                                                           ,     43115
+             24,NON-CRIMINAL                                                                                        ,        19
+             24,OBSCENITY                                                                                           ,        48
+             24,OFFENSE INVOLVING CHILDREN                                                                          ,      2596
+             24,OTHER NARCOTIC VIOLATION                                                                            ,        11
+             24,OTHER OFFENSE                                                                                       ,     27681
+             24,PROSTITUTION                                                                                        ,      1183
+             24,PUBLIC INDECENCY                                                                                    ,        14
+             24,PUBLIC PEACE VIOLATION                                                                              ,      2620
+             24,RITUALISM                                                                                           ,         1
+             24,ROBBERY                                                                                             ,      8890
+             24,SEX OFFENSE                                                                                         ,      1243
+             24,STALKING                                                                                            ,       187
+             24,THEFT                                                                                               ,     95390
+             24,WEAPONS VIOLATION                                                                                   ,      2865
